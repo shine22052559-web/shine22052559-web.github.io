@@ -1,0 +1,42 @@
+รายการตรวจ Compile และทดสอบ EA — BRAINFORZE
+===============================================
+
+สถานะปัจจุบัน: ยังไม่มีหลักฐานว่า Compile ผ่านจริง
+
+A. Compile ใน MetaEditor
+[ ] เปิด MetaTrader 5 บนคอมพิวเตอร์และเปิด MetaEditor
+[ ] คัดลอก BF_Trend_Basket_Pro_Demo.mq5 ไป MQL5/Experts
+[ ] กด Compile และบันทึกภาพ/ข้อความผล Compile
+[ ] ยืนยัน Errors = 0; ตรวจ Warning ทุกข้อและบันทึกไว้
+[ ] ถ้ามี Error ให้แก้ตามข้อความ Compiler จริง แล้ว Compile ซ้ำ
+[ ] เปิดไฟล์ .ex5 ที่ MetaEditor สร้างได้จริง
+
+B. ตรวจค่าตั้งต้น
+[ ] เปิดเฉพาะบัญชี DEMO และตรวจว่า InpDemoOnly=true
+[ ] ตรวจ Symbol, Timeframe, minimum lot, volume step, stop level และ spread ของโบรกเกอร์
+[ ] ตรวจ Magic Number ไม่ชนกับ EA อื่น
+[ ] ตรวจ EMA เร็วน้อยกว่า EMA ช้า
+[ ] ตรวจขีดจำกัด Max Positions, Basket Loss และ Drawdown
+
+C. Strategy Tester
+[ ] ทดสอบทุก tick ตามข้อมูลที่มีอย่างน้อยหลายช่วงตลาด
+[ ] ตรวจตลาดแนวโน้มขึ้น ลง และ Sideways
+[ ] ตรวจช่วง Spread สูงและข้อมูล Indicator ไม่พร้อม
+[ ] ตรวจ Buy/Sell signal จากแท่งปิดแล้ว
+[ ] ตรวจ SL/TP, Basket TP/SL และ Trailing
+[ ] ตรวจ hedging: Position ที่มี Symbol/Magic ต่างกันต้องไม่ถูกแก้หรือปิด
+[ ] ตรวจว่าหยุดเพิ่มออเดอร์เมื่อ Risk Guard ทำงาน
+[ ] ตรวจ log ของคำสั่งที่ถูกปฏิเสธ/ปิดไม่สำเร็จ
+
+D. Demo Forward Test
+[ ] รันในบัญชี DEMO เท่านั้น
+[ ] ตรวจการ reconnect/restart และสถานะ Position
+[ ] ตรวจ dashboard และ Experts/Journal
+[ ] บันทึกผล Drawdown, จำนวนเทรด, ค่าใช้จ่าย, spread และผลลัพธ์
+[ ] ไม่เปิดขายจนกว่าจะผ่านการทดสอบและระบุข้อจำกัดชัดเจน
+
+ข้อจำกัดที่ต้องทราบ:
+- Dashboard ใช้ Comment บนกราฟเป็นต้นแบบ ไม่ใช่แผง UI ขั้นสูง
+- Basket แบบราคาเฉลี่ยจะไม่ประเมินตะกร้าที่มีทั้ง Buy และ Sell พร้อมกันเป็นราคาเป้าหมายเดียว
+- Risk Guard หยุดการเปิดออเดอร์ใหม่ ไม่รับประกันว่าจะปิดสถานะทันทีเมื่อขาดทุนเกินเกณฑ์
+- ผลทดสอบย้อนหลังไม่รับประกันผลกำไรในอนาคต

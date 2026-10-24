@@ -1,0 +1,19 @@
+BRAINFORZE V10 — FREE WEBSITE QUALITY PASS
+
+ทำแล้ว:
+- คงหน้าเว็บ V9 และต้นแบบ EA ไว้
+- เพิ่ม meta description, theme-color, favicon SVG
+- เพิ่ม skip link, focus-visible และ prefers-reduced-motion
+- ย้าย Google Fonts ออกจาก CSS @import ไปเป็น stylesheet link พร้อม preconnect
+- เพิ่ม 404.html, robots.txt, sitemap.xml
+
+ข้อจำกัด:
+- Google Fonts ยังต้องใช้อินเทอร์เน็ต; ยังมี third-party request
+- ไม่มีฐานข้อมูลกลาง ระบบล็อกอินจริง หรือ payment gateway
+- Admin, Customer, Membership, Seller Wallet และ EA Builder บางส่วนเป็นเดโม/LocalStorage
+- EA MQL5 ยังไม่ได้ Compile ด้วย MetaEditor
+- ไม่ได้รัน Lighthouse/PageSpeed ในเบราว์เซอร์จริง; เป็น static quality pass
+- ตัวเลข/ผลงานตัวอย่างต้องติดป้ายเดโมจนกว่าจะมีข้อมูลจริง
+- ไม่เพิ่มบริการเสียเงิน
+
+ก่อน Deploy ต้องเก็บสำเนา V9 ไว้ เพราะ ZIP นี้แทนที่ไฟล์เว็บไซต์ทั้งชุด

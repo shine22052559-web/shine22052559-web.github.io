@@ -1,0 +1,4 @@
+metric,definition,formula,source,cadence,caveat
+Conversion rate,Orders divided by sessions,orders/sessions,Analytics + orders,Weekly,Use consistent attribution window
+Average order value,Revenue divided by orders,revenue/orders,Order database,Weekly,Exclude cancelled/refunded per policy
+Refund rate,Refunded orders divided by paid orders,refunds/paid orders,Payment/order system,Monthly,Define cohort window

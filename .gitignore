@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+node_modules/
+.netlify/
+.git/
+*.zip
+*.7z
+*.rar
+*.tar
+*.tar.gz
+*.apk
+*.aab
+*.keystore
+*.jks
+.DS_Store
+Thumbs.db

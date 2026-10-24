@@ -1,0 +1,27 @@
+EA BUILDER V9 — NOTES
+======================
+
+เป้าหมาย:
+- MT5, Hedging account, Trend Following, multi-indicator confirmation
+- Balanced risk profile, Basket ON, Trailing ON, Dashboard ON
+- ทดสอบบัญชี Demo เท่านั้น
+
+ตัวอย่างที่เพิ่ม:
+- EMA crossover + RSI confirmation + ADX filter
+- ATR-based initial SL/TP
+- Basket TP/SL, per-position trailing, max position count
+- spread, basket floating loss, and drawdown guards
+- dashboard summary on chart
+
+ยังไม่ทำ/ยังไม่ยืนยัน:
+- ไม่ได้ compile ด้วย MetaEditor ในสภาพแวดล้อมนี้
+- ไม่มีการเชื่อมต่อ MT5 จากเว็บไซต์
+- ไม่มี server-side build service
+- ไม่ได้รับประกันว่า compile ได้ 100% ทุก build/โบรกเกอร์
+- ไม่ใช่คำแนะนำการลงทุนและไม่มีการรับประกันผลกำไร
+
+แนวทางต่อไป:
+1. Compile และแก้จาก diagnostic จริง
+2. ตรวจตรรกะ Hedging และสถานะหลัง restart
+3. ผ่าน Strategy Tester และ Demo forward test
+4. จากนั้นจึงเชื่อม UI Builder ให้สร้าง source จากค่าที่ผู้ใช้เลือก

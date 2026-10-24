@@ -1,0 +1,17 @@
+BRAINFORZE V13 — MODULE-FIRST DEVELOPMENT (DEMO ONLY)
+
+ราคาเป้าหมาย EA: 199 บาทต่อตัว (ยังไม่เปิดรับเงินจริง)
+
+ลำดับพัฒนาและเกณฑ์ผ่าน:
+1. Configurator + Schema Validator: validate symbol, timeframe, lot/risk bounds, SL/TP, sessions, indicator parameters; reject invalid combinations.
+2. Rule Builder: typed nodes only, AND/OR, no arbitrary user code.
+3. Presets: EMA cross, breakout, trend following; grid/basket/reverse only with explicit risk caps.
+4. Trade management modules: trailing stop, break-even, basket TP/SL, max positions, max spread, daily loss cap.
+5. Deterministic MQL5 generator: identical normalized configuration produces identical source; unit tests on fixtures.
+6. Compile worker: Windows host with MetaEditor; store compiler logs; no auto-repair claims.
+7. Backtest: MT5 Strategy Tester first; report net profit, drawdown, win rate and test conditions.
+8. Payment Center: shared backend needed for production. This demo page uses localStorage only and is NOT secure/shared.
+9. Order review: manual bank verification by Owner, immutable order audit log.
+10. Delivery: deliver .ex5 only after verified compile and owner approval; email and download links need backend.
+
+SAFETY: This package is a static prototype. It does not process real payments, authenticate owners, share payment settings across devices, compile .ex5, run MT5 backtests, or send emails. Never upload real banking details to this demo. Test on a separate Netlify site first.

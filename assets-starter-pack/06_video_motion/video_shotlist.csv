@@ -1,0 +1,5 @@
+shot_id,scene,framing,action,location,props,audio,owner,status
+01,Opening,Wide,Establish context,Studio,Product,Voiceover,Producer,Planned
+02,Demo,Close-up,Show real workflow,Desk,Computer,Screen recording,Editor,Planned
+03,Proof,Over-shoulder,Show verified result,Desk,Report,Voiceover,Editor,Planned
+04,CTA,Graphic,Display next step,Motion,Brand assets,Music,Designer,Planned

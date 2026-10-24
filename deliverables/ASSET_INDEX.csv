@@ -1,0 +1,51 @@
+﻿category,file,title,bytes,status
+01_ea_trading_bots,01_ea_trading_bots/trend_following_checklist.md,Trend Following EA Checklist,533,editable starter template; review and customize before client delivery
+01_ea_trading_bots,01_ea_trading_bots/scalping_test_plan.csv,Scalping Test Plan,321,editable starter template; review and customize before client delivery
+01_ea_trading_bots,01_ea_trading_bots/risk_preset_conservative.set,Conservative MT5 Preset Starter,204,editable starter template; review and customize before client delivery
+01_ea_trading_bots,01_ea_trading_bots/ea_release_checklist.md,EA Release Checklist,450,editable starter template; review and customize before client delivery
+01_ea_trading_bots,01_ea_trading_bots/ea_customer_quickstart.md,EA Customer Quick Start,518,editable starter template; review and customize before client delivery
+02_website_templates,02_website_templates/landing_page.html,Responsive Landing Page Starter,1112,editable starter template; review and customize before client delivery
+02_website_templates,02_website_templates/product_detail.html,Digital Product Detail Starter,1133,editable starter template; review and customize before client delivery
+02_website_templates,02_website_templates/faq_page.md,Website FAQ Page Content,897,editable starter template; review and customize before client delivery
+02_website_templates,02_website_templates/privacy_notice_template.md,Privacy Notice Starter,435,editable starter template; review and customize before client delivery
+02_website_templates,02_website_templates/service_brief_form.json,Service Brief Form Schema,591,editable starter template; review and customize before client delivery
+03_graphic_templates,03_graphic_templates/social_post_1080.svg,Social Post 1080×1080,829,editable starter template; review and customize before client delivery
+03_graphic_templates,03_graphic_templates/story_1080x1920.svg,Story Template 1080×1920,918,editable starter template; review and customize before client delivery
+03_graphic_templates,03_graphic_templates/brand_color_tokens.json,Brand Color Tokens,355,editable starter template; review and customize before client delivery
+03_graphic_templates,03_graphic_templates/thumbnail_frame.svg,Product Thumbnail Frame,606,editable starter template; review and customize before client delivery
+03_graphic_templates,03_graphic_templates/design_handoff_checklist.md,Graphic Design Handoff Checklist,332,editable starter template; review and customize before client delivery
+04_branding_kits,04_branding_kits/brand_strategy_onepager.md,Brand Strategy One-Pager,301,editable starter template; review and customize before client delivery
+04_branding_kits,04_branding_kits/logo_primary.svg,Editable Primary Logo Starter,511,editable starter template; review and customize before client delivery
+04_branding_kits,04_branding_kits/brand_voice_examples.md,Brand Voice Examples,363,editable starter template; review and customize before client delivery
+04_branding_kits,04_branding_kits/brand_asset_register.csv,Brand Asset Register,275,editable starter template; review and customize before client delivery
+04_branding_kits,04_branding_kits/brand_guidelines.md,Mini Brand Guidelines,429,editable starter template; review and customize before client delivery
+05_presentation_templates,05_presentation_templates/business_pitch_deck.md,10-Slide Business Pitch Deck Outline,454,editable starter template; review and customize before client delivery
+05_presentation_templates,05_presentation_templates/project_status_deck.md,Project Status Presentation Outline,267,editable starter template; review and customize before client delivery
+05_presentation_templates,05_presentation_templates/slide_content_planner.csv,Slide Content Planner,301,editable starter template; review and customize before client delivery
+05_presentation_templates,05_presentation_templates/financial_assumptions.csv,Financial Assumptions Sheet,331,editable starter template; review and customize before client delivery
+05_presentation_templates,05_presentation_templates/presentation_quality_checklist.md,Presentation QA Checklist,338,editable starter template; review and customize before client delivery
+06_video_motion,06_video_motion/30_second_ad_storyboard.csv,30-Second Ad Storyboard,499,editable starter template; review and customize before client delivery
+06_video_motion,06_video_motion/video_shotlist.csv,Video Production Shot List,378,editable starter template; review and customize before client delivery
+06_video_motion,06_video_motion/video_editing_notes.md,Video Editing Notes,410,editable starter template; review and customize before client delivery
+06_video_motion,06_video_motion/subtitle_template.srt,Subtitle Starter,175,editable starter template; review and customize before client delivery
+06_video_motion,06_video_motion/motion_brief.md,Motion Design Brief,297,editable starter template; review and customize before client delivery
+07_marketing_kits,07_marketing_kits/campaign_planner.csv,Campaign Planner,355,editable starter template; review and customize before client delivery
+07_marketing_kits,07_marketing_kits/30_day_content_calendar.csv,30-Day Content Calendar Starter,325,editable starter template; review and customize before client delivery
+07_marketing_kits,07_marketing_kits/email_sequence.md,5-Email Welcome Sequence,416,editable starter template; review and customize before client delivery
+07_marketing_kits,07_marketing_kits/ad_copy_variants.csv,Ad Copy Variants,451,editable starter template; review and customize before client delivery
+07_marketing_kits,07_marketing_kits/marketing_metrics.csv,Marketing Metrics Tracker,73,editable starter template; review and customize before client delivery
+08_ai_creative_packs,08_ai_creative_packs/image_prompt_framework.md,Image Prompt Framework,380,editable starter template; review and customize before client delivery
+08_ai_creative_packs,08_ai_creative_packs/product_mockup_brief.json,Product Mockup Brief,298,editable starter template; review and customize before client delivery
+08_ai_creative_packs,08_ai_creative_packs/content_repurposing_workflow.md,Content Repurposing Workflow,309,editable starter template; review and customize before client delivery
+08_ai_creative_packs,08_ai_creative_packs/creative_review_scorecard.csv,Creative Review Scorecard,175,editable starter template; review and customize before client delivery
+08_ai_creative_packs,08_ai_creative_packs/prompt_library.csv,Prompt Library Starter,449,editable starter template; review and customize before client delivery
+09_dashboard_templates,09_dashboard_templates/analytics_dashboard.html,Responsive Analytics Dashboard Starter,1224,editable starter template; review and customize before client delivery
+09_dashboard_templates,09_dashboard_templates/kpi_dictionary.csv,KPI Dictionary,409,editable starter template; review and customize before client delivery
+09_dashboard_templates,09_dashboard_templates/dashboard_requirements.md,Dashboard Requirements Brief,277,editable starter template; review and customize before client delivery
+09_dashboard_templates,09_dashboard_templates/status_badges.json,Status Badge Tokens,258,editable starter template; review and customize before client delivery
+09_dashboard_templates,09_dashboard_templates/admin_audit_log.csv,Admin Audit Log Schema,83,editable starter template; review and customize before client delivery
+10_business_services_documents,10_business_services_documents/project_proposal.md,Project Proposal Template,510,editable starter template; review and customize before client delivery
+10_business_services_documents,10_business_services_documents/client_intake.csv,Client Intake Form Fields,372,editable starter template; review and customize before client delivery
+10_business_services_documents,10_business_services_documents/meeting_notes.md,Meeting Notes Template,203,editable starter template; review and customize before client delivery
+10_business_services_documents,10_business_services_documents/invoice_register.csv,Invoice Register Template,95,editable starter template; review and customize before client delivery
+10_business_services_documents,10_business_services_documents/acceptance_handover.md,Delivery Acceptance and Handover,437,editable starter template; review and customize before client delivery

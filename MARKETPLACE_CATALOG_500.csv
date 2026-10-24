@@ -1,0 +1,501 @@
+﻿id,sku,category,categoryName,name,priceTHB,description,deliverable,releaseStatus
+ea-01,BF-EA-001,ea,EA & Trading Bots,Trend Rider Lite,199,EA สำหรับ MT5 พร้อม source/preset/คู่มือ โดยสถานะทดสอบต้องแสดงตามผลจริง,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ea-02,BF-EA-002,ea,EA & Trading Bots,Scalping Pulse,299,EA สำหรับ MT5 พร้อม source/preset/คู่มือ โดยสถานะทดสอบต้องแสดงตามผลจริง,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ea-03,BF-EA-003,ea,EA & Trading Bots,Fast-Tick Prototype,399,EA สำหรับ MT5 พร้อม source/preset/คู่มือ โดยสถานะทดสอบต้องแสดงตามผลจริง,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ea-04,BF-EA-004,ea,EA & Trading Bots,Donchian Breakout,499,EA สำหรับ MT5 พร้อม source/preset/คู่มือ โดยสถานะทดสอบต้องแสดงตามผลจริง,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ea-05,BF-EA-005,ea,EA & Trading Bots,EMA Momentum,399,EA สำหรับ MT5 พร้อม source/preset/คู่มือ โดยสถานะทดสอบต้องแสดงตามผลจริง,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ea-06,BF-EA-006,ea,EA & Trading Bots,RSI Reversal Demo,299,EA สำหรับ MT5 พร้อม source/preset/คู่มือ โดยสถานะทดสอบต้องแสดงตามผลจริง,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ea-07,BF-EA-007,ea,EA & Trading Bots,Session Filter Pro,599,EA สำหรับ MT5 พร้อม source/preset/คู่มือ โดยสถานะทดสอบต้องแสดงตามผลจริง,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ea-08,BF-EA-008,ea,EA & Trading Bots,Basket Manager,799,EA สำหรับ MT5 พร้อม source/preset/คู่มือ โดยสถานะทดสอบต้องแสดงตามผลจริง,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ea-09,BF-EA-009,ea,EA & Trading Bots,Risk Guard EA,699,EA สำหรับ MT5 พร้อม source/preset/คู่มือ โดยสถานะทดสอบต้องแสดงตามผลจริง,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ea-10,BF-EA-010,ea,EA & Trading Bots,Multi-Strategy Starter,999,EA สำหรับ MT5 พร้อม source/preset/คู่มือ โดยสถานะทดสอบต้องแสดงตามผลจริง,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ea-11,BF-EA-011,ea,EA & Trading Bots,Trend Rider Lite Essential,199,EA สำหรับ MT5 พร้อม source/preset/คู่มือ โดยสถานะทดสอบต้องแสดงตามผลจริง,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ea-12,BF-EA-012,ea,EA & Trading Bots,Scalping Pulse Essential,249,EA สำหรับ MT5 พร้อม source/preset/คู่มือ โดยสถานะทดสอบต้องแสดงตามผลจริง,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ea-13,BF-EA-013,ea,EA & Trading Bots,Fast-Tick Guard Essential,299,EA สำหรับ MT5 พร้อม source/preset/คู่มือ โดยสถานะทดสอบต้องแสดงตามผลจริง,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ea-14,BF-EA-014,ea,EA & Trading Bots,Donchian Breakout Essential,349,EA สำหรับ MT5 พร้อม source/preset/คู่มือ โดยสถานะทดสอบต้องแสดงตามผลจริง,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ea-15,BF-EA-015,ea,EA & Trading Bots,Moving Average Cross Essential,399,EA สำหรับ MT5 พร้อม source/preset/คู่มือ โดยสถานะทดสอบต้องแสดงตามผลจริง,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ea-16,BF-EA-016,ea,EA & Trading Bots,RSI Reversal Essential,199,EA สำหรับ MT5 พร้อม source/preset/คู่มือ โดยสถานะทดสอบต้องแสดงตามผลจริง,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ea-17,BF-EA-017,ea,EA & Trading Bots,MACD Momentum Essential,249,EA สำหรับ MT5 พร้อม source/preset/คู่มือ โดยสถานะทดสอบต้องแสดงตามผลจริง,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ea-18,BF-EA-018,ea,EA & Trading Bots,Bollinger Reversion Essential,299,EA สำหรับ MT5 พร้อม source/preset/คู่มือ โดยสถานะทดสอบต้องแสดงตามผลจริง,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ea-19,BF-EA-019,ea,EA & Trading Bots,ATR Trailing Stop Essential,349,EA สำหรับ MT5 พร้อม source/preset/คู่มือ โดยสถานะทดสอบต้องแสดงตามผลจริง,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ea-20,BF-EA-020,ea,EA & Trading Bots,Session Filter Essential,399,EA สำหรับ MT5 พร้อม source/preset/คู่มือ โดยสถานะทดสอบต้องแสดงตามผลจริง,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ea-21,BF-EA-021,ea,EA & Trading Bots,Trend Rider Lite Pro,199,EA สำหรับ MT5 พร้อม source/preset/คู่มือ โดยสถานะทดสอบต้องแสดงตามผลจริง,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ea-22,BF-EA-022,ea,EA & Trading Bots,Scalping Pulse Pro,249,EA สำหรับ MT5 พร้อม source/preset/คู่มือ โดยสถานะทดสอบต้องแสดงตามผลจริง,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ea-23,BF-EA-023,ea,EA & Trading Bots,Fast-Tick Guard Pro,299,EA สำหรับ MT5 พร้อม source/preset/คู่มือ โดยสถานะทดสอบต้องแสดงตามผลจริง,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ea-24,BF-EA-024,ea,EA & Trading Bots,Donchian Breakout Pro,349,EA สำหรับ MT5 พร้อม source/preset/คู่มือ โดยสถานะทดสอบต้องแสดงตามผลจริง,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ea-25,BF-EA-025,ea,EA & Trading Bots,Moving Average Cross Pro,399,EA สำหรับ MT5 พร้อม source/preset/คู่มือ โดยสถานะทดสอบต้องแสดงตามผลจริง,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ea-26,BF-EA-026,ea,EA & Trading Bots,RSI Reversal Pro,199,EA สำหรับ MT5 พร้อม source/preset/คู่มือ โดยสถานะทดสอบต้องแสดงตามผลจริง,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ea-27,BF-EA-027,ea,EA & Trading Bots,MACD Momentum Pro,249,EA สำหรับ MT5 พร้อม source/preset/คู่มือ โดยสถานะทดสอบต้องแสดงตามผลจริง,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ea-28,BF-EA-028,ea,EA & Trading Bots,Bollinger Reversion Pro,299,EA สำหรับ MT5 พร้อม source/preset/คู่มือ โดยสถานะทดสอบต้องแสดงตามผลจริง,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ea-29,BF-EA-029,ea,EA & Trading Bots,ATR Trailing Stop Pro,349,EA สำหรับ MT5 พร้อม source/preset/คู่มือ โดยสถานะทดสอบต้องแสดงตามผลจริง,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ea-30,BF-EA-030,ea,EA & Trading Bots,Session Filter Pro,399,EA สำหรับ MT5 พร้อม source/preset/คู่มือ โดยสถานะทดสอบต้องแสดงตามผลจริง,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ea-31,BF-EA-031,ea,EA & Trading Bots,Trend Rider Lite Premium,199,EA สำหรับ MT5 พร้อม source/preset/คู่มือ โดยสถานะทดสอบต้องแสดงตามผลจริง,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ea-32,BF-EA-032,ea,EA & Trading Bots,Scalping Pulse Premium,249,EA สำหรับ MT5 พร้อม source/preset/คู่มือ โดยสถานะทดสอบต้องแสดงตามผลจริง,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ea-33,BF-EA-033,ea,EA & Trading Bots,Fast-Tick Guard Premium,299,EA สำหรับ MT5 พร้อม source/preset/คู่มือ โดยสถานะทดสอบต้องแสดงตามผลจริง,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ea-34,BF-EA-034,ea,EA & Trading Bots,Donchian Breakout Premium,349,EA สำหรับ MT5 พร้อม source/preset/คู่มือ โดยสถานะทดสอบต้องแสดงตามผลจริง,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ea-35,BF-EA-035,ea,EA & Trading Bots,Moving Average Cross Premium,399,EA สำหรับ MT5 พร้อม source/preset/คู่มือ โดยสถานะทดสอบต้องแสดงตามผลจริง,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ea-36,BF-EA-036,ea,EA & Trading Bots,RSI Reversal Premium,199,EA สำหรับ MT5 พร้อม source/preset/คู่มือ โดยสถานะทดสอบต้องแสดงตามผลจริง,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ea-37,BF-EA-037,ea,EA & Trading Bots,MACD Momentum Premium,249,EA สำหรับ MT5 พร้อม source/preset/คู่มือ โดยสถานะทดสอบต้องแสดงตามผลจริง,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ea-38,BF-EA-038,ea,EA & Trading Bots,Bollinger Reversion Premium,299,EA สำหรับ MT5 พร้อม source/preset/คู่มือ โดยสถานะทดสอบต้องแสดงตามผลจริง,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ea-39,BF-EA-039,ea,EA & Trading Bots,ATR Trailing Stop Premium,349,EA สำหรับ MT5 พร้อม source/preset/คู่มือ โดยสถานะทดสอบต้องแสดงตามผลจริง,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ea-40,BF-EA-040,ea,EA & Trading Bots,Session Filter Premium,399,EA สำหรับ MT5 พร้อม source/preset/คู่มือ โดยสถานะทดสอบต้องแสดงตามผลจริง,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ea-41,BF-EA-041,ea,EA & Trading Bots,Trend Rider Lite Minimal,199,EA สำหรับ MT5 พร้อม source/preset/คู่มือ โดยสถานะทดสอบต้องแสดงตามผลจริง,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ea-42,BF-EA-042,ea,EA & Trading Bots,Scalping Pulse Minimal,249,EA สำหรับ MT5 พร้อม source/preset/คู่มือ โดยสถานะทดสอบต้องแสดงตามผลจริง,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ea-43,BF-EA-043,ea,EA & Trading Bots,Fast-Tick Guard Minimal,299,EA สำหรับ MT5 พร้อม source/preset/คู่มือ โดยสถานะทดสอบต้องแสดงตามผลจริง,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ea-44,BF-EA-044,ea,EA & Trading Bots,Donchian Breakout Minimal,349,EA สำหรับ MT5 พร้อม source/preset/คู่มือ โดยสถานะทดสอบต้องแสดงตามผลจริง,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ea-45,BF-EA-045,ea,EA & Trading Bots,Moving Average Cross Minimal,399,EA สำหรับ MT5 พร้อม source/preset/คู่มือ โดยสถานะทดสอบต้องแสดงตามผลจริง,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ea-46,BF-EA-046,ea,EA & Trading Bots,RSI Reversal Minimal,199,EA สำหรับ MT5 พร้อม source/preset/คู่มือ โดยสถานะทดสอบต้องแสดงตามผลจริง,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ea-47,BF-EA-047,ea,EA & Trading Bots,MACD Momentum Minimal,249,EA สำหรับ MT5 พร้อม source/preset/คู่มือ โดยสถานะทดสอบต้องแสดงตามผลจริง,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ea-48,BF-EA-048,ea,EA & Trading Bots,Bollinger Reversion Minimal,299,EA สำหรับ MT5 พร้อม source/preset/คู่มือ โดยสถานะทดสอบต้องแสดงตามผลจริง,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ea-49,BF-EA-049,ea,EA & Trading Bots,ATR Trailing Stop Minimal,349,EA สำหรับ MT5 พร้อม source/preset/คู่มือ โดยสถานะทดสอบต้องแสดงตามผลจริง,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ea-50,BF-EA-050,ea,EA & Trading Bots,Session Filter Minimal,399,EA สำหรับ MT5 พร้อม source/preset/คู่มือ โดยสถานะทดสอบต้องแสดงตามผลจริง,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+web-01,BF-WEB-001,web,Website Templates,Creative Studio Landing,490,เทมเพลตเว็บไซต์ responsive พร้อมโครงสร้างหน้าและไฟล์เริ่มต้น,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+web-02,BF-WEB-002,web,Website Templates,ร้านค้าออนไลน์ Starter,990,เทมเพลตเว็บไซต์ responsive พร้อมโครงสร้างหน้าและไฟล์เริ่มต้น,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+web-03,BF-WEB-003,web,Website Templates,Portfolio Pro,590,เทมเพลตเว็บไซต์ responsive พร้อมโครงสร้างหน้าและไฟล์เริ่มต้น,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+web-04,BF-WEB-004,web,Website Templates,Agency Multi-page,1490,เทมเพลตเว็บไซต์ responsive พร้อมโครงสร้างหน้าและไฟล์เริ่มต้น,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+web-05,BF-WEB-005,web,Website Templates,Cafe & Restaurant,790,เทมเพลตเว็บไซต์ responsive พร้อมโครงสร้างหน้าและไฟล์เริ่มต้น,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+web-06,BF-WEB-006,web,Website Templates,Course Landing,890,เทมเพลตเว็บไซต์ responsive พร้อมโครงสร้างหน้าและไฟล์เริ่มต้น,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+web-07,BF-WEB-007,web,Website Templates,SaaS Product Page,1290,เทมเพลตเว็บไซต์ responsive พร้อมโครงสร้างหน้าและไฟล์เริ่มต้น,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+web-08,BF-WEB-008,web,Website Templates,Booking Website,1490,เทมเพลตเว็บไซต์ responsive พร้อมโครงสร้างหน้าและไฟล์เริ่มต้น,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+web-09,BF-WEB-009,web,Website Templates,Real Estate Showcase,990,เทมเพลตเว็บไซต์ responsive พร้อมโครงสร้างหน้าและไฟล์เริ่มต้น,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+web-10,BF-WEB-010,web,Website Templates,Personal Brand Site,690,เทมเพลตเว็บไซต์ responsive พร้อมโครงสร้างหน้าและไฟล์เริ่มต้น,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+web-11,BF-WEB-011,web,Website Templates,Agency Landing Essential,299,เทมเพลตเว็บไซต์ responsive พร้อมโครงสร้างหน้าและไฟล์เริ่มต้น,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+web-12,BF-WEB-012,web,Website Templates,Portfolio Studio Essential,349,เทมเพลตเว็บไซต์ responsive พร้อมโครงสร้างหน้าและไฟล์เริ่มต้น,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+web-13,BF-WEB-013,web,Website Templates,Digital Storefront Essential,399,เทมเพลตเว็บไซต์ responsive พร้อมโครงสร้างหน้าและไฟล์เริ่มต้น,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+web-14,BF-WEB-014,web,Website Templates,SaaS Landing Essential,449,เทมเพลตเว็บไซต์ responsive พร้อมโครงสร้างหน้าและไฟล์เริ่มต้น,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+web-15,BF-WEB-015,web,Website Templates,Cafe Website Essential,499,เทมเพลตเว็บไซต์ responsive พร้อมโครงสร้างหน้าและไฟล์เริ่มต้น,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+web-16,BF-WEB-016,web,Website Templates,Restaurant Website Essential,299,เทมเพลตเว็บไซต์ responsive พร้อมโครงสร้างหน้าและไฟล์เริ่มต้น,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+web-17,BF-WEB-017,web,Website Templates,Consultant Website Essential,349,เทมเพลตเว็บไซต์ responsive พร้อมโครงสร้างหน้าและไฟล์เริ่มต้น,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+web-18,BF-WEB-018,web,Website Templates,Course Landing Essential,399,เทมเพลตเว็บไซต์ responsive พร้อมโครงสร้างหน้าและไฟล์เริ่มต้น,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+web-19,BF-WEB-019,web,Website Templates,Booking Website Essential,449,เทมเพลตเว็บไซต์ responsive พร้อมโครงสร้างหน้าและไฟล์เริ่มต้น,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+web-20,BF-WEB-020,web,Website Templates,Product Launch Essential,499,เทมเพลตเว็บไซต์ responsive พร้อมโครงสร้างหน้าและไฟล์เริ่มต้น,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+web-21,BF-WEB-021,web,Website Templates,Agency Landing Pro,299,เทมเพลตเว็บไซต์ responsive พร้อมโครงสร้างหน้าและไฟล์เริ่มต้น,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+web-22,BF-WEB-022,web,Website Templates,Portfolio Studio Pro,349,เทมเพลตเว็บไซต์ responsive พร้อมโครงสร้างหน้าและไฟล์เริ่มต้น,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+web-23,BF-WEB-023,web,Website Templates,Digital Storefront Pro,399,เทมเพลตเว็บไซต์ responsive พร้อมโครงสร้างหน้าและไฟล์เริ่มต้น,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+web-24,BF-WEB-024,web,Website Templates,SaaS Landing Pro,449,เทมเพลตเว็บไซต์ responsive พร้อมโครงสร้างหน้าและไฟล์เริ่มต้น,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+web-25,BF-WEB-025,web,Website Templates,Cafe Website Pro,499,เทมเพลตเว็บไซต์ responsive พร้อมโครงสร้างหน้าและไฟล์เริ่มต้น,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+web-26,BF-WEB-026,web,Website Templates,Restaurant Website Pro,299,เทมเพลตเว็บไซต์ responsive พร้อมโครงสร้างหน้าและไฟล์เริ่มต้น,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+web-27,BF-WEB-027,web,Website Templates,Consultant Website Pro,349,เทมเพลตเว็บไซต์ responsive พร้อมโครงสร้างหน้าและไฟล์เริ่มต้น,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+web-28,BF-WEB-028,web,Website Templates,Course Landing Pro,399,เทมเพลตเว็บไซต์ responsive พร้อมโครงสร้างหน้าและไฟล์เริ่มต้น,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+web-29,BF-WEB-029,web,Website Templates,Booking Website Pro,449,เทมเพลตเว็บไซต์ responsive พร้อมโครงสร้างหน้าและไฟล์เริ่มต้น,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+web-30,BF-WEB-030,web,Website Templates,Product Launch Edition 30,499,เทมเพลตเว็บไซต์ responsive พร้อมโครงสร้างหน้าและไฟล์เริ่มต้น,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+web-31,BF-WEB-031,web,Website Templates,Agency Landing Premium,299,เทมเพลตเว็บไซต์ responsive พร้อมโครงสร้างหน้าและไฟล์เริ่มต้น,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+web-32,BF-WEB-032,web,Website Templates,Portfolio Studio Premium,349,เทมเพลตเว็บไซต์ responsive พร้อมโครงสร้างหน้าและไฟล์เริ่มต้น,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+web-33,BF-WEB-033,web,Website Templates,Digital Storefront Premium,399,เทมเพลตเว็บไซต์ responsive พร้อมโครงสร้างหน้าและไฟล์เริ่มต้น,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+web-34,BF-WEB-034,web,Website Templates,SaaS Landing Premium,449,เทมเพลตเว็บไซต์ responsive พร้อมโครงสร้างหน้าและไฟล์เริ่มต้น,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+web-35,BF-WEB-035,web,Website Templates,Cafe Website Premium,499,เทมเพลตเว็บไซต์ responsive พร้อมโครงสร้างหน้าและไฟล์เริ่มต้น,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+web-36,BF-WEB-036,web,Website Templates,Restaurant Website Premium,299,เทมเพลตเว็บไซต์ responsive พร้อมโครงสร้างหน้าและไฟล์เริ่มต้น,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+web-37,BF-WEB-037,web,Website Templates,Consultant Website Premium,349,เทมเพลตเว็บไซต์ responsive พร้อมโครงสร้างหน้าและไฟล์เริ่มต้น,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+web-38,BF-WEB-038,web,Website Templates,Course Landing Premium,399,เทมเพลตเว็บไซต์ responsive พร้อมโครงสร้างหน้าและไฟล์เริ่มต้น,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+web-39,BF-WEB-039,web,Website Templates,Booking Website Premium,449,เทมเพลตเว็บไซต์ responsive พร้อมโครงสร้างหน้าและไฟล์เริ่มต้น,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+web-40,BF-WEB-040,web,Website Templates,Product Launch Premium,499,เทมเพลตเว็บไซต์ responsive พร้อมโครงสร้างหน้าและไฟล์เริ่มต้น,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+web-41,BF-WEB-041,web,Website Templates,Agency Landing Minimal,299,เทมเพลตเว็บไซต์ responsive พร้อมโครงสร้างหน้าและไฟล์เริ่มต้น,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+web-42,BF-WEB-042,web,Website Templates,Portfolio Studio Minimal,349,เทมเพลตเว็บไซต์ responsive พร้อมโครงสร้างหน้าและไฟล์เริ่มต้น,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+web-43,BF-WEB-043,web,Website Templates,Digital Storefront Minimal,399,เทมเพลตเว็บไซต์ responsive พร้อมโครงสร้างหน้าและไฟล์เริ่มต้น,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+web-44,BF-WEB-044,web,Website Templates,SaaS Landing Minimal,449,เทมเพลตเว็บไซต์ responsive พร้อมโครงสร้างหน้าและไฟล์เริ่มต้น,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+web-45,BF-WEB-045,web,Website Templates,Cafe Website Minimal,499,เทมเพลตเว็บไซต์ responsive พร้อมโครงสร้างหน้าและไฟล์เริ่มต้น,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+web-46,BF-WEB-046,web,Website Templates,Restaurant Website Minimal,299,เทมเพลตเว็บไซต์ responsive พร้อมโครงสร้างหน้าและไฟล์เริ่มต้น,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+web-47,BF-WEB-047,web,Website Templates,Consultant Website Minimal,349,เทมเพลตเว็บไซต์ responsive พร้อมโครงสร้างหน้าและไฟล์เริ่มต้น,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+web-48,BF-WEB-048,web,Website Templates,Course Landing Minimal,399,เทมเพลตเว็บไซต์ responsive พร้อมโครงสร้างหน้าและไฟล์เริ่มต้น,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+web-49,BF-WEB-049,web,Website Templates,Booking Website Minimal,449,เทมเพลตเว็บไซต์ responsive พร้อมโครงสร้างหน้าและไฟล์เริ่มต้น,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+web-50,BF-WEB-050,web,Website Templates,Product Launch Minimal,499,เทมเพลตเว็บไซต์ responsive พร้อมโครงสร้างหน้าและไฟล์เริ่มต้น,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+graphic-01,BF-GRAPHIC-001,graphic,Graphic Templates,Social Post 30 Pack,199,เทมเพลตกราฟิกแก้ไขต่อได้ พร้อมขนาดและแนวทางใช้งาน,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+graphic-02,BF-GRAPHIC-002,graphic,Graphic Templates,Product Promo Set,249,เทมเพลตกราฟิกแก้ไขต่อได้ พร้อมขนาดและแนวทางใช้งาน,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+graphic-03,BF-GRAPHIC-003,graphic,Graphic Templates,Sale Campaign Kit,299,เทมเพลตกราฟิกแก้ไขต่อได้ พร้อมขนาดและแนวทางใช้งาน,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+graphic-04,BF-GRAPHIC-004,graphic,Graphic Templates,YouTube Thumbnail Pack,149,เทมเพลตกราฟิกแก้ไขต่อได้ พร้อมขนาดและแนวทางใช้งาน,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+graphic-05,BF-GRAPHIC-005,graphic,Graphic Templates,Story & Reel Covers,199,เทมเพลตกราฟิกแก้ไขต่อได้ พร้อมขนาดและแนวทางใช้งาน,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+graphic-06,BF-GRAPHIC-006,graphic,Graphic Templates,Infographic Kit,299,เทมเพลตกราฟิกแก้ไขต่อได้ พร้อมขนาดและแนวทางใช้งาน,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+graphic-07,BF-GRAPHIC-007,graphic,Graphic Templates,Menu Design Set,249,เทมเพลตกราฟิกแก้ไขต่อได้ พร้อมขนาดและแนวทางใช้งาน,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+graphic-08,BF-GRAPHIC-008,graphic,Graphic Templates,Ad Creative Bundle,399,เทมเพลตกราฟิกแก้ไขต่อได้ พร้อมขนาดและแนวทางใช้งาน,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+graphic-09,BF-GRAPHIC-009,graphic,Graphic Templates,Event Poster Pack,199,เทมเพลตกราฟิกแก้ไขต่อได้ พร้อมขนาดและแนวทางใช้งาน,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+graphic-10,BF-GRAPHIC-010,graphic,Graphic Templates,Business Card Suite,199,เทมเพลตกราฟิกแก้ไขต่อได้ พร้อมขนาดและแนวทางใช้งาน,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+graphic-11,BF-GRAPHIC-011,graphic,Graphic Templates,Instagram Carousel Essential,99,เทมเพลตกราฟิกแก้ไขต่อได้ พร้อมขนาดและแนวทางใช้งาน,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+graphic-12,BF-GRAPHIC-012,graphic,Graphic Templates,Story Promo Essential,149,เทมเพลตกราฟิกแก้ไขต่อได้ พร้อมขนาดและแนวทางใช้งาน,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+graphic-13,BF-GRAPHIC-013,graphic,Graphic Templates,Facebook Ad Essential,199,เทมเพลตกราฟิกแก้ไขต่อได้ พร้อมขนาดและแนวทางใช้งาน,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+graphic-14,BF-GRAPHIC-014,graphic,Graphic Templates,YouTube Thumbnail Essential,249,เทมเพลตกราฟิกแก้ไขต่อได้ พร้อมขนาดและแนวทางใช้งาน,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+graphic-15,BF-GRAPHIC-015,graphic,Graphic Templates,Ebook Cover Essential,299,เทมเพลตกราฟิกแก้ไขต่อได้ พร้อมขนาดและแนวทางใช้งาน,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+graphic-16,BF-GRAPHIC-016,graphic,Graphic Templates,A4 Flyer Essential,99,เทมเพลตกราฟิกแก้ไขต่อได้ พร้อมขนาดและแนวทางใช้งาน,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+graphic-17,BF-GRAPHIC-017,graphic,Graphic Templates,Event Poster Essential,149,เทมเพลตกราฟิกแก้ไขต่อได้ พร้อมขนาดและแนวทางใช้งาน,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+graphic-18,BF-GRAPHIC-018,graphic,Graphic Templates,Restaurant Menu Essential,199,เทมเพลตกราฟิกแก้ไขต่อได้ พร้อมขนาดและแนวทางใช้งาน,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+graphic-19,BF-GRAPHIC-019,graphic,Graphic Templates,Product Catalog Essential,249,เทมเพลตกราฟิกแก้ไขต่อได้ พร้อมขนาดและแนวทางใช้งาน,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+graphic-20,BF-GRAPHIC-020,graphic,Graphic Templates,Infographic Essential,299,เทมเพลตกราฟิกแก้ไขต่อได้ พร้อมขนาดและแนวทางใช้งาน,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+graphic-21,BF-GRAPHIC-021,graphic,Graphic Templates,Instagram Carousel Pro,99,เทมเพลตกราฟิกแก้ไขต่อได้ พร้อมขนาดและแนวทางใช้งาน,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+graphic-22,BF-GRAPHIC-022,graphic,Graphic Templates,Story Promo Edition 22,149,เทมเพลตกราฟิกแก้ไขต่อได้ พร้อมขนาดและแนวทางใช้งาน,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+graphic-23,BF-GRAPHIC-023,graphic,Graphic Templates,Facebook Ad Pro,199,เทมเพลตกราฟิกแก้ไขต่อได้ พร้อมขนาดและแนวทางใช้งาน,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+graphic-24,BF-GRAPHIC-024,graphic,Graphic Templates,YouTube Thumbnail Pro,249,เทมเพลตกราฟิกแก้ไขต่อได้ พร้อมขนาดและแนวทางใช้งาน,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+graphic-25,BF-GRAPHIC-025,graphic,Graphic Templates,Ebook Cover Pro,299,เทมเพลตกราฟิกแก้ไขต่อได้ พร้อมขนาดและแนวทางใช้งาน,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+graphic-26,BF-GRAPHIC-026,graphic,Graphic Templates,A4 Flyer Pro,99,เทมเพลตกราฟิกแก้ไขต่อได้ พร้อมขนาดและแนวทางใช้งาน,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+graphic-27,BF-GRAPHIC-027,graphic,Graphic Templates,Event Poster Pro,149,เทมเพลตกราฟิกแก้ไขต่อได้ พร้อมขนาดและแนวทางใช้งาน,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+graphic-28,BF-GRAPHIC-028,graphic,Graphic Templates,Restaurant Menu Pro,199,เทมเพลตกราฟิกแก้ไขต่อได้ พร้อมขนาดและแนวทางใช้งาน,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+graphic-29,BF-GRAPHIC-029,graphic,Graphic Templates,Product Catalog Edition 29,249,เทมเพลตกราฟิกแก้ไขต่อได้ พร้อมขนาดและแนวทางใช้งาน,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+graphic-30,BF-GRAPHIC-030,graphic,Graphic Templates,Infographic Pro,299,เทมเพลตกราฟิกแก้ไขต่อได้ พร้อมขนาดและแนวทางใช้งาน,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+graphic-31,BF-GRAPHIC-031,graphic,Graphic Templates,Instagram Carousel Premium,99,เทมเพลตกราฟิกแก้ไขต่อได้ พร้อมขนาดและแนวทางใช้งาน,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+graphic-32,BF-GRAPHIC-032,graphic,Graphic Templates,Story Promo Premium,149,เทมเพลตกราฟิกแก้ไขต่อได้ พร้อมขนาดและแนวทางใช้งาน,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+graphic-33,BF-GRAPHIC-033,graphic,Graphic Templates,Facebook Ad Premium,199,เทมเพลตกราฟิกแก้ไขต่อได้ พร้อมขนาดและแนวทางใช้งาน,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+graphic-34,BF-GRAPHIC-034,graphic,Graphic Templates,YouTube Thumbnail Premium,249,เทมเพลตกราฟิกแก้ไขต่อได้ พร้อมขนาดและแนวทางใช้งาน,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+graphic-35,BF-GRAPHIC-035,graphic,Graphic Templates,Ebook Cover Premium,299,เทมเพลตกราฟิกแก้ไขต่อได้ พร้อมขนาดและแนวทางใช้งาน,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+graphic-36,BF-GRAPHIC-036,graphic,Graphic Templates,A4 Flyer Premium,99,เทมเพลตกราฟิกแก้ไขต่อได้ พร้อมขนาดและแนวทางใช้งาน,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+graphic-37,BF-GRAPHIC-037,graphic,Graphic Templates,Event Poster Premium,149,เทมเพลตกราฟิกแก้ไขต่อได้ พร้อมขนาดและแนวทางใช้งาน,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+graphic-38,BF-GRAPHIC-038,graphic,Graphic Templates,Restaurant Menu Premium,199,เทมเพลตกราฟิกแก้ไขต่อได้ พร้อมขนาดและแนวทางใช้งาน,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+graphic-39,BF-GRAPHIC-039,graphic,Graphic Templates,Product Catalog Premium,249,เทมเพลตกราฟิกแก้ไขต่อได้ พร้อมขนาดและแนวทางใช้งาน,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+graphic-40,BF-GRAPHIC-040,graphic,Graphic Templates,Infographic Premium,299,เทมเพลตกราฟิกแก้ไขต่อได้ พร้อมขนาดและแนวทางใช้งาน,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+graphic-41,BF-GRAPHIC-041,graphic,Graphic Templates,Instagram Carousel Minimal,99,เทมเพลตกราฟิกแก้ไขต่อได้ พร้อมขนาดและแนวทางใช้งาน,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+graphic-42,BF-GRAPHIC-042,graphic,Graphic Templates,Story Promo Minimal,149,เทมเพลตกราฟิกแก้ไขต่อได้ พร้อมขนาดและแนวทางใช้งาน,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+graphic-43,BF-GRAPHIC-043,graphic,Graphic Templates,Facebook Ad Minimal,199,เทมเพลตกราฟิกแก้ไขต่อได้ พร้อมขนาดและแนวทางใช้งาน,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+graphic-44,BF-GRAPHIC-044,graphic,Graphic Templates,YouTube Thumbnail Minimal,249,เทมเพลตกราฟิกแก้ไขต่อได้ พร้อมขนาดและแนวทางใช้งาน,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+graphic-45,BF-GRAPHIC-045,graphic,Graphic Templates,Ebook Cover Minimal,299,เทมเพลตกราฟิกแก้ไขต่อได้ พร้อมขนาดและแนวทางใช้งาน,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+graphic-46,BF-GRAPHIC-046,graphic,Graphic Templates,A4 Flyer Minimal,99,เทมเพลตกราฟิกแก้ไขต่อได้ พร้อมขนาดและแนวทางใช้งาน,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+graphic-47,BF-GRAPHIC-047,graphic,Graphic Templates,Event Poster Minimal,149,เทมเพลตกราฟิกแก้ไขต่อได้ พร้อมขนาดและแนวทางใช้งาน,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+graphic-48,BF-GRAPHIC-048,graphic,Graphic Templates,Restaurant Menu Minimal,199,เทมเพลตกราฟิกแก้ไขต่อได้ พร้อมขนาดและแนวทางใช้งาน,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+graphic-49,BF-GRAPHIC-049,graphic,Graphic Templates,Product Catalog Minimal,249,เทมเพลตกราฟิกแก้ไขต่อได้ พร้อมขนาดและแนวทางใช้งาน,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+graphic-50,BF-GRAPHIC-050,graphic,Graphic Templates,Infographic Minimal,299,เทมเพลตกราฟิกแก้ไขต่อได้ พร้อมขนาดและแนวทางใช้งาน,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+brand-01,BF-BRAND-001,brand,Branding Kits,Brand Starter,499,ชุดแนวทางแบรนด์ที่แก้ไขและนำไปต่อยอดได้,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+brand-02,BF-BRAND-002,brand,Branding Kits,Luxury Gold Identity,990,ชุดแนวทางแบรนด์ที่แก้ไขและนำไปต่อยอดได้,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+brand-03,BF-BRAND-003,brand,Branding Kits,Cyberpunk Identity,990,ชุดแนวทางแบรนด์ที่แก้ไขและนำไปต่อยอดได้,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+brand-04,BF-BRAND-004,brand,Branding Kits,Cafe Brand Kit,690,ชุดแนวทางแบรนด์ที่แก้ไขและนำไปต่อยอดได้,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+brand-05,BF-BRAND-005,brand,Branding Kits,Beauty Brand Kit,690,ชุดแนวทางแบรนด์ที่แก้ไขและนำไปต่อยอดได้,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+brand-06,BF-BRAND-006,brand,Branding Kits,Tech Startup Kit,990,ชุดแนวทางแบรนด์ที่แก้ไขและนำไปต่อยอดได้,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+brand-07,BF-BRAND-007,brand,Branding Kits,Logo Presentation Kit,390,ชุดแนวทางแบรนด์ที่แก้ไขและนำไปต่อยอดได้,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+brand-08,BF-BRAND-008,brand,Branding Kits,Color System Pack,199,ชุดแนวทางแบรนด์ที่แก้ไขและนำไปต่อยอดได้,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+brand-09,BF-BRAND-009,brand,Branding Kits,Typography Guide,249,ชุดแนวทางแบรนด์ที่แก้ไขและนำไปต่อยอดได้,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+brand-10,BF-BRAND-010,brand,Branding Kits,Brand Guideline Mini,790,ชุดแนวทางแบรนด์ที่แก้ไขและนำไปต่อยอดได้,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+brand-11,BF-BRAND-011,brand,Branding Kits,Minimal Brand Kit Essential,299,ชุดแนวทางแบรนด์ที่แก้ไขและนำไปต่อยอดได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+brand-12,BF-BRAND-012,brand,Branding Kits,Luxury Gold Identity Essential,349,ชุดแนวทางแบรนด์ที่แก้ไขและนำไปต่อยอดได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+brand-13,BF-BRAND-013,brand,Branding Kits,Tech Startup Identity Essential,399,ชุดแนวทางแบรนด์ที่แก้ไขและนำไปต่อยอดได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+brand-14,BF-BRAND-014,brand,Branding Kits,Cafe Identity Essential,449,ชุดแนวทางแบรนด์ที่แก้ไขและนำไปต่อยอดได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+brand-15,BF-BRAND-015,brand,Branding Kits,Beauty Brand Identity Essential,499,ชุดแนวทางแบรนด์ที่แก้ไขและนำไปต่อยอดได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+brand-16,BF-BRAND-016,brand,Branding Kits,Fitness Brand Identity Essential,299,ชุดแนวทางแบรนด์ที่แก้ไขและนำไปต่อยอดได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+brand-17,BF-BRAND-017,brand,Branding Kits,Real Estate Identity Essential,349,ชุดแนวทางแบรนด์ที่แก้ไขและนำไปต่อยอดได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+brand-18,BF-BRAND-018,brand,Branding Kits,Personal Brand Kit Essential,399,ชุดแนวทางแบรนด์ที่แก้ไขและนำไปต่อยอดได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+brand-19,BF-BRAND-019,brand,Branding Kits,Logo Usage Guide Essential,449,ชุดแนวทางแบรนด์ที่แก้ไขและนำไปต่อยอดได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+brand-20,BF-BRAND-020,brand,Branding Kits,Color Palette System Essential,499,ชุดแนวทางแบรนด์ที่แก้ไขและนำไปต่อยอดได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+brand-21,BF-BRAND-021,brand,Branding Kits,Minimal Brand Kit Pro,299,ชุดแนวทางแบรนด์ที่แก้ไขและนำไปต่อยอดได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+brand-22,BF-BRAND-022,brand,Branding Kits,Luxury Gold Identity Pro,349,ชุดแนวทางแบรนด์ที่แก้ไขและนำไปต่อยอดได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+brand-23,BF-BRAND-023,brand,Branding Kits,Tech Startup Identity Pro,399,ชุดแนวทางแบรนด์ที่แก้ไขและนำไปต่อยอดได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+brand-24,BF-BRAND-024,brand,Branding Kits,Cafe Identity Pro,449,ชุดแนวทางแบรนด์ที่แก้ไขและนำไปต่อยอดได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+brand-25,BF-BRAND-025,brand,Branding Kits,Beauty Brand Identity Pro,499,ชุดแนวทางแบรนด์ที่แก้ไขและนำไปต่อยอดได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+brand-26,BF-BRAND-026,brand,Branding Kits,Fitness Brand Identity Pro,299,ชุดแนวทางแบรนด์ที่แก้ไขและนำไปต่อยอดได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+brand-27,BF-BRAND-027,brand,Branding Kits,Real Estate Identity Pro,349,ชุดแนวทางแบรนด์ที่แก้ไขและนำไปต่อยอดได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+brand-28,BF-BRAND-028,brand,Branding Kits,Personal Brand Kit Pro,399,ชุดแนวทางแบรนด์ที่แก้ไขและนำไปต่อยอดได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+brand-29,BF-BRAND-029,brand,Branding Kits,Logo Usage Guide Pro,449,ชุดแนวทางแบรนด์ที่แก้ไขและนำไปต่อยอดได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+brand-30,BF-BRAND-030,brand,Branding Kits,Color Palette System Pro,499,ชุดแนวทางแบรนด์ที่แก้ไขและนำไปต่อยอดได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+brand-31,BF-BRAND-031,brand,Branding Kits,Minimal Brand Kit Premium,299,ชุดแนวทางแบรนด์ที่แก้ไขและนำไปต่อยอดได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+brand-32,BF-BRAND-032,brand,Branding Kits,Luxury Gold Identity Premium,349,ชุดแนวทางแบรนด์ที่แก้ไขและนำไปต่อยอดได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+brand-33,BF-BRAND-033,brand,Branding Kits,Tech Startup Identity Premium,399,ชุดแนวทางแบรนด์ที่แก้ไขและนำไปต่อยอดได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+brand-34,BF-BRAND-034,brand,Branding Kits,Cafe Identity Premium,449,ชุดแนวทางแบรนด์ที่แก้ไขและนำไปต่อยอดได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+brand-35,BF-BRAND-035,brand,Branding Kits,Beauty Brand Identity Premium,499,ชุดแนวทางแบรนด์ที่แก้ไขและนำไปต่อยอดได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+brand-36,BF-BRAND-036,brand,Branding Kits,Fitness Brand Identity Premium,299,ชุดแนวทางแบรนด์ที่แก้ไขและนำไปต่อยอดได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+brand-37,BF-BRAND-037,brand,Branding Kits,Real Estate Identity Premium,349,ชุดแนวทางแบรนด์ที่แก้ไขและนำไปต่อยอดได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+brand-38,BF-BRAND-038,brand,Branding Kits,Personal Brand Kit Premium,399,ชุดแนวทางแบรนด์ที่แก้ไขและนำไปต่อยอดได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+brand-39,BF-BRAND-039,brand,Branding Kits,Logo Usage Guide Premium,449,ชุดแนวทางแบรนด์ที่แก้ไขและนำไปต่อยอดได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+brand-40,BF-BRAND-040,brand,Branding Kits,Color Palette System Premium,499,ชุดแนวทางแบรนด์ที่แก้ไขและนำไปต่อยอดได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+brand-41,BF-BRAND-041,brand,Branding Kits,Minimal Brand Kit Edition 41,299,ชุดแนวทางแบรนด์ที่แก้ไขและนำไปต่อยอดได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+brand-42,BF-BRAND-042,brand,Branding Kits,Luxury Gold Identity Minimal,349,ชุดแนวทางแบรนด์ที่แก้ไขและนำไปต่อยอดได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+brand-43,BF-BRAND-043,brand,Branding Kits,Tech Startup Identity Minimal,399,ชุดแนวทางแบรนด์ที่แก้ไขและนำไปต่อยอดได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+brand-44,BF-BRAND-044,brand,Branding Kits,Cafe Identity Minimal,449,ชุดแนวทางแบรนด์ที่แก้ไขและนำไปต่อยอดได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+brand-45,BF-BRAND-045,brand,Branding Kits,Beauty Brand Identity Minimal,499,ชุดแนวทางแบรนด์ที่แก้ไขและนำไปต่อยอดได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+brand-46,BF-BRAND-046,brand,Branding Kits,Fitness Brand Identity Minimal,299,ชุดแนวทางแบรนด์ที่แก้ไขและนำไปต่อยอดได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+brand-47,BF-BRAND-047,brand,Branding Kits,Real Estate Identity Minimal,349,ชุดแนวทางแบรนด์ที่แก้ไขและนำไปต่อยอดได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+brand-48,BF-BRAND-048,brand,Branding Kits,Personal Brand Kit Minimal,399,ชุดแนวทางแบรนด์ที่แก้ไขและนำไปต่อยอดได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+brand-49,BF-BRAND-049,brand,Branding Kits,Logo Usage Guide Minimal,449,ชุดแนวทางแบรนด์ที่แก้ไขและนำไปต่อยอดได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+brand-50,BF-BRAND-050,brand,Branding Kits,Color Palette System Minimal,499,ชุดแนวทางแบรนด์ที่แก้ไขและนำไปต่อยอดได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+slide-01,BF-SLIDE-001,slide,Presentation Templates,Business Plan 10 Slides,399,โครงสไลด์พร้อมหัวข้อและแนวทางกรอกข้อมูล,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+slide-02,BF-SLIDE-002,slide,Presentation Templates,Investor Pitch Deck,790,โครงสไลด์พร้อมหัวข้อและแนวทางกรอกข้อมูล,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+slide-03,BF-SLIDE-003,slide,Presentation Templates,Sales Proposal Deck,490,โครงสไลด์พร้อมหัวข้อและแนวทางกรอกข้อมูล,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+slide-04,BF-SLIDE-004,slide,Presentation Templates,Cafe Business Plan,399,โครงสไลด์พร้อมหัวข้อและแนวทางกรอกข้อมูล,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+slide-05,BF-SLIDE-005,slide,Presentation Templates,Monthly KPI Review,490,โครงสไลด์พร้อมหัวข้อและแนวทางกรอกข้อมูล,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+slide-06,BF-SLIDE-006,slide,Presentation Templates,Project Kickoff Deck,590,โครงสไลด์พร้อมหัวข้อและแนวทางกรอกข้อมูล,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+slide-07,BF-SLIDE-007,slide,Presentation Templates,Product Launch Deck,590,โครงสไลด์พร้อมหัวข้อและแนวทางกรอกข้อมูล,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+slide-08,BF-SLIDE-008,slide,Presentation Templates,Training Workshop Deck,490,โครงสไลด์พร้อมหัวข้อและแนวทางกรอกข้อมูล,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+slide-09,BF-SLIDE-009,slide,Presentation Templates,Portfolio Presentation,399,โครงสไลด์พร้อมหัวข้อและแนวทางกรอกข้อมูล,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+slide-10,BF-SLIDE-010,slide,Presentation Templates,Company Profile 12 Slides,690,โครงสไลด์พร้อมหัวข้อและแนวทางกรอกข้อมูล,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+slide-11,BF-SLIDE-011,slide,Presentation Templates,Business Plan Deck Essential,199,โครงสไลด์พร้อมหัวข้อและแนวทางกรอกข้อมูล,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+slide-12,BF-SLIDE-012,slide,Presentation Templates,Investor Pitch Deck Essential,249,โครงสไลด์พร้อมหัวข้อและแนวทางกรอกข้อมูล,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+slide-13,BF-SLIDE-013,slide,Presentation Templates,Sales Pitch Deck Essential,299,โครงสไลด์พร้อมหัวข้อและแนวทางกรอกข้อมูล,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+slide-14,BF-SLIDE-014,slide,Presentation Templates,Company Profile Essential,349,โครงสไลด์พร้อมหัวข้อและแนวทางกรอกข้อมูล,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+slide-15,BF-SLIDE-015,slide,Presentation Templates,Quarterly Review Essential,399,โครงสไลด์พร้อมหัวข้อและแนวทางกรอกข้อมูล,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+slide-16,BF-SLIDE-016,slide,Presentation Templates,Marketing Strategy Essential,199,โครงสไลด์พร้อมหัวข้อและแนวทางกรอกข้อมูล,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+slide-17,BF-SLIDE-017,slide,Presentation Templates,Product Launch Deck Essential,249,โครงสไลด์พร้อมหัวข้อและแนวทางกรอกข้อมูล,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+slide-18,BF-SLIDE-018,slide,Presentation Templates,Project Kickoff Essential,299,โครงสไลด์พร้อมหัวข้อและแนวทางกรอกข้อมูล,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+slide-19,BF-SLIDE-019,slide,Presentation Templates,Training Workshop Essential,349,โครงสไลด์พร้อมหัวข้อและแนวทางกรอกข้อมูล,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+slide-20,BF-SLIDE-020,slide,Presentation Templates,Case Study Deck Essential,399,โครงสไลด์พร้อมหัวข้อและแนวทางกรอกข้อมูล,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+slide-21,BF-SLIDE-021,slide,Presentation Templates,Business Plan Deck Pro,199,โครงสไลด์พร้อมหัวข้อและแนวทางกรอกข้อมูล,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+slide-22,BF-SLIDE-022,slide,Presentation Templates,Investor Pitch Deck Pro,249,โครงสไลด์พร้อมหัวข้อและแนวทางกรอกข้อมูล,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+slide-23,BF-SLIDE-023,slide,Presentation Templates,Sales Pitch Deck Pro,299,โครงสไลด์พร้อมหัวข้อและแนวทางกรอกข้อมูล,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+slide-24,BF-SLIDE-024,slide,Presentation Templates,Company Profile Edition 24,349,โครงสไลด์พร้อมหัวข้อและแนวทางกรอกข้อมูล,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+slide-25,BF-SLIDE-025,slide,Presentation Templates,Quarterly Review Pro,399,โครงสไลด์พร้อมหัวข้อและแนวทางกรอกข้อมูล,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+slide-26,BF-SLIDE-026,slide,Presentation Templates,Marketing Strategy Pro,199,โครงสไลด์พร้อมหัวข้อและแนวทางกรอกข้อมูล,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+slide-27,BF-SLIDE-027,slide,Presentation Templates,Product Launch Deck Edition 27,249,โครงสไลด์พร้อมหัวข้อและแนวทางกรอกข้อมูล,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+slide-28,BF-SLIDE-028,slide,Presentation Templates,Project Kickoff Edition 28,299,โครงสไลด์พร้อมหัวข้อและแนวทางกรอกข้อมูล,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+slide-29,BF-SLIDE-029,slide,Presentation Templates,Training Workshop Pro,349,โครงสไลด์พร้อมหัวข้อและแนวทางกรอกข้อมูล,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+slide-30,BF-SLIDE-030,slide,Presentation Templates,Case Study Deck Pro,399,โครงสไลด์พร้อมหัวข้อและแนวทางกรอกข้อมูล,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+slide-31,BF-SLIDE-031,slide,Presentation Templates,Business Plan Deck Premium,199,โครงสไลด์พร้อมหัวข้อและแนวทางกรอกข้อมูล,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+slide-32,BF-SLIDE-032,slide,Presentation Templates,Investor Pitch Deck Premium,249,โครงสไลด์พร้อมหัวข้อและแนวทางกรอกข้อมูล,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+slide-33,BF-SLIDE-033,slide,Presentation Templates,Sales Pitch Deck Premium,299,โครงสไลด์พร้อมหัวข้อและแนวทางกรอกข้อมูล,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+slide-34,BF-SLIDE-034,slide,Presentation Templates,Company Profile Premium,349,โครงสไลด์พร้อมหัวข้อและแนวทางกรอกข้อมูล,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+slide-35,BF-SLIDE-035,slide,Presentation Templates,Quarterly Review Premium,399,โครงสไลด์พร้อมหัวข้อและแนวทางกรอกข้อมูล,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+slide-36,BF-SLIDE-036,slide,Presentation Templates,Marketing Strategy Premium,199,โครงสไลด์พร้อมหัวข้อและแนวทางกรอกข้อมูล,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+slide-37,BF-SLIDE-037,slide,Presentation Templates,Product Launch Deck Premium,249,โครงสไลด์พร้อมหัวข้อและแนวทางกรอกข้อมูล,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+slide-38,BF-SLIDE-038,slide,Presentation Templates,Project Kickoff Premium,299,โครงสไลด์พร้อมหัวข้อและแนวทางกรอกข้อมูล,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+slide-39,BF-SLIDE-039,slide,Presentation Templates,Training Workshop Premium,349,โครงสไลด์พร้อมหัวข้อและแนวทางกรอกข้อมูล,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+slide-40,BF-SLIDE-040,slide,Presentation Templates,Case Study Deck Premium,399,โครงสไลด์พร้อมหัวข้อและแนวทางกรอกข้อมูล,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+slide-41,BF-SLIDE-041,slide,Presentation Templates,Business Plan Deck Minimal,199,โครงสไลด์พร้อมหัวข้อและแนวทางกรอกข้อมูล,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+slide-42,BF-SLIDE-042,slide,Presentation Templates,Investor Pitch Deck Minimal,249,โครงสไลด์พร้อมหัวข้อและแนวทางกรอกข้อมูล,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+slide-43,BF-SLIDE-043,slide,Presentation Templates,Sales Pitch Deck Minimal,299,โครงสไลด์พร้อมหัวข้อและแนวทางกรอกข้อมูล,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+slide-44,BF-SLIDE-044,slide,Presentation Templates,Company Profile Minimal,349,โครงสไลด์พร้อมหัวข้อและแนวทางกรอกข้อมูล,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+slide-45,BF-SLIDE-045,slide,Presentation Templates,Quarterly Review Minimal,399,โครงสไลด์พร้อมหัวข้อและแนวทางกรอกข้อมูล,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+slide-46,BF-SLIDE-046,slide,Presentation Templates,Marketing Strategy Minimal,199,โครงสไลด์พร้อมหัวข้อและแนวทางกรอกข้อมูล,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+slide-47,BF-SLIDE-047,slide,Presentation Templates,Product Launch Deck Minimal,249,โครงสไลด์พร้อมหัวข้อและแนวทางกรอกข้อมูล,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+slide-48,BF-SLIDE-048,slide,Presentation Templates,Project Kickoff Minimal,299,โครงสไลด์พร้อมหัวข้อและแนวทางกรอกข้อมูล,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+slide-49,BF-SLIDE-049,slide,Presentation Templates,Training Workshop Minimal,349,โครงสไลด์พร้อมหัวข้อและแนวทางกรอกข้อมูล,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+slide-50,BF-SLIDE-050,slide,Presentation Templates,Case Study Deck Minimal,399,โครงสไลด์พร้อมหัวข้อและแนวทางกรอกข้อมูล,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+video-01,BF-VIDEO-001,video,Video & Motion,Short-form Reel Pack,299,ชุดวางแผน/สคริปต์/สตอรีบอร์ดสำหรับผลิตวิดีโอ,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+video-02,BF-VIDEO-002,video,Video & Motion,Product Promo Story,399,ชุดวางแผน/สคริปต์/สตอรีบอร์ดสำหรับผลิตวิดีโอ,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+video-03,BF-VIDEO-003,video,Video & Motion,Logo Reveal Starter,299,ชุดวางแผน/สคริปต์/สตอรีบอร์ดสำหรับผลิตวิดีโอ,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+video-04,BF-VIDEO-004,video,Video & Motion,YouTube Intro Kit,249,ชุดวางแผน/สคริปต์/สตอรีบอร์ดสำหรับผลิตวิดีโอ,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+video-05,BF-VIDEO-005,video,Video & Motion,Cafe Promo Template,299,ชุดวางแผน/สคริปต์/สตอรีบอร์ดสำหรับผลิตวิดีโอ,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+video-06,BF-VIDEO-006,video,Video & Motion,Course Promo Pack,399,ชุดวางแผน/สคริปต์/สตอรีบอร์ดสำหรับผลิตวิดีโอ,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+video-07,BF-VIDEO-007,video,Video & Motion,Event Highlight Kit,490,ชุดวางแผน/สคริปต์/สตอรีบอร์ดสำหรับผลิตวิดีโอ,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+video-08,BF-VIDEO-008,video,Video & Motion,Ad Variations Pack,590,ชุดวางแผน/สคริปต์/สตอรีบอร์ดสำหรับผลิตวิดีโอ,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+video-09,BF-VIDEO-009,video,Video & Motion,Explainer Storyboard,390,ชุดวางแผน/สคริปต์/สตอรีบอร์ดสำหรับผลิตวิดีโอ,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+video-10,BF-VIDEO-010,video,Video & Motion,Motion Typography Pack,399,ชุดวางแผน/สคริปต์/สตอรีบอร์ดสำหรับผลิตวิดีโอ,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+video-11,BF-VIDEO-011,video,Video & Motion,Brand Intro Storyboard Essential,199,ชุดวางแผน/สคริปต์/สตอรีบอร์ดสำหรับผลิตวิดีโอ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+video-12,BF-VIDEO-012,video,Video & Motion,Logo Reveal Plan Essential,249,ชุดวางแผน/สคริปต์/สตอรีบอร์ดสำหรับผลิตวิดีโอ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+video-13,BF-VIDEO-013,video,Video & Motion,Product Promo Script Essential,299,ชุดวางแผน/สคริปต์/สตอรีบอร์ดสำหรับผลิตวิดีโอ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+video-14,BF-VIDEO-014,video,Video & Motion,Explainer Script Essential,349,ชุดวางแผน/สคริปต์/สตอรีบอร์ดสำหรับผลิตวิดีโอ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+video-15,BF-VIDEO-015,video,Video & Motion,Social Reel Template Essential,399,ชุดวางแผน/สคริปต์/สตอรีบอร์ดสำหรับผลิตวิดีโอ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+video-16,BF-VIDEO-016,video,Video & Motion,YouTube Intro Pack Essential,199,ชุดวางแผน/สคริปต์/สตอรีบอร์ดสำหรับผลิตวิดีโอ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+video-17,BF-VIDEO-017,video,Video & Motion,Podcast Video Layout Essential,249,ชุดวางแผน/สคริปต์/สตอรีบอร์ดสำหรับผลิตวิดีโอ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+video-18,BF-VIDEO-018,video,Video & Motion,Interview Plan Essential,299,ชุดวางแผน/สคริปต์/สตอรีบอร์ดสำหรับผลิตวิดีโอ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+video-19,BF-VIDEO-019,video,Video & Motion,Product Demo Script Essential,349,ชุดวางแผน/สคริปต์/สตอรีบอร์ดสำหรับผลิตวิดีโอ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+video-20,BF-VIDEO-020,video,Video & Motion,Video Shot List Essential,399,ชุดวางแผน/สคริปต์/สตอรีบอร์ดสำหรับผลิตวิดีโอ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+video-21,BF-VIDEO-021,video,Video & Motion,Brand Intro Storyboard Pro,199,ชุดวางแผน/สคริปต์/สตอรีบอร์ดสำหรับผลิตวิดีโอ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+video-22,BF-VIDEO-022,video,Video & Motion,Logo Reveal Plan Pro,249,ชุดวางแผน/สคริปต์/สตอรีบอร์ดสำหรับผลิตวิดีโอ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+video-23,BF-VIDEO-023,video,Video & Motion,Product Promo Script Edition 23,299,ชุดวางแผน/สคริปต์/สตอรีบอร์ดสำหรับผลิตวิดีโอ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+video-24,BF-VIDEO-024,video,Video & Motion,Explainer Script Pro,349,ชุดวางแผน/สคริปต์/สตอรีบอร์ดสำหรับผลิตวิดีโอ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+video-25,BF-VIDEO-025,video,Video & Motion,Social Reel Template Pro,399,ชุดวางแผน/สคริปต์/สตอรีบอร์ดสำหรับผลิตวิดีโอ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+video-26,BF-VIDEO-026,video,Video & Motion,YouTube Intro Pack Pro,199,ชุดวางแผน/สคริปต์/สตอรีบอร์ดสำหรับผลิตวิดีโอ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+video-27,BF-VIDEO-027,video,Video & Motion,Podcast Video Layout Pro,249,ชุดวางแผน/สคริปต์/สตอรีบอร์ดสำหรับผลิตวิดีโอ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+video-28,BF-VIDEO-028,video,Video & Motion,Interview Plan Pro,299,ชุดวางแผน/สคริปต์/สตอรีบอร์ดสำหรับผลิตวิดีโอ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+video-29,BF-VIDEO-029,video,Video & Motion,Product Demo Script Edition 29,349,ชุดวางแผน/สคริปต์/สตอรีบอร์ดสำหรับผลิตวิดีโอ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+video-30,BF-VIDEO-030,video,Video & Motion,Video Shot List Pro,399,ชุดวางแผน/สคริปต์/สตอรีบอร์ดสำหรับผลิตวิดีโอ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+video-31,BF-VIDEO-031,video,Video & Motion,Brand Intro Storyboard Premium,199,ชุดวางแผน/สคริปต์/สตอรีบอร์ดสำหรับผลิตวิดีโอ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+video-32,BF-VIDEO-032,video,Video & Motion,Logo Reveal Plan Premium,249,ชุดวางแผน/สคริปต์/สตอรีบอร์ดสำหรับผลิตวิดีโอ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+video-33,BF-VIDEO-033,video,Video & Motion,Product Promo Script Premium,299,ชุดวางแผน/สคริปต์/สตอรีบอร์ดสำหรับผลิตวิดีโอ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+video-34,BF-VIDEO-034,video,Video & Motion,Explainer Script Premium,349,ชุดวางแผน/สคริปต์/สตอรีบอร์ดสำหรับผลิตวิดีโอ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+video-35,BF-VIDEO-035,video,Video & Motion,Social Reel Template Premium,399,ชุดวางแผน/สคริปต์/สตอรีบอร์ดสำหรับผลิตวิดีโอ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+video-36,BF-VIDEO-036,video,Video & Motion,YouTube Intro Pack Premium,199,ชุดวางแผน/สคริปต์/สตอรีบอร์ดสำหรับผลิตวิดีโอ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+video-37,BF-VIDEO-037,video,Video & Motion,Podcast Video Layout Premium,249,ชุดวางแผน/สคริปต์/สตอรีบอร์ดสำหรับผลิตวิดีโอ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+video-38,BF-VIDEO-038,video,Video & Motion,Interview Plan Premium,299,ชุดวางแผน/สคริปต์/สตอรีบอร์ดสำหรับผลิตวิดีโอ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+video-39,BF-VIDEO-039,video,Video & Motion,Product Demo Script Premium,349,ชุดวางแผน/สคริปต์/สตอรีบอร์ดสำหรับผลิตวิดีโอ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+video-40,BF-VIDEO-040,video,Video & Motion,Video Shot List Premium,399,ชุดวางแผน/สคริปต์/สตอรีบอร์ดสำหรับผลิตวิดีโอ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+video-41,BF-VIDEO-041,video,Video & Motion,Brand Intro Storyboard Minimal,199,ชุดวางแผน/สคริปต์/สตอรีบอร์ดสำหรับผลิตวิดีโอ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+video-42,BF-VIDEO-042,video,Video & Motion,Logo Reveal Plan Minimal,249,ชุดวางแผน/สคริปต์/สตอรีบอร์ดสำหรับผลิตวิดีโอ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+video-43,BF-VIDEO-043,video,Video & Motion,Product Promo Script Minimal,299,ชุดวางแผน/สคริปต์/สตอรีบอร์ดสำหรับผลิตวิดีโอ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+video-44,BF-VIDEO-044,video,Video & Motion,Explainer Script Minimal,349,ชุดวางแผน/สคริปต์/สตอรีบอร์ดสำหรับผลิตวิดีโอ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+video-45,BF-VIDEO-045,video,Video & Motion,Social Reel Template Minimal,399,ชุดวางแผน/สคริปต์/สตอรีบอร์ดสำหรับผลิตวิดีโอ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+video-46,BF-VIDEO-046,video,Video & Motion,YouTube Intro Pack Minimal,199,ชุดวางแผน/สคริปต์/สตอรีบอร์ดสำหรับผลิตวิดีโอ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+video-47,BF-VIDEO-047,video,Video & Motion,Podcast Video Layout Minimal,249,ชุดวางแผน/สคริปต์/สตอรีบอร์ดสำหรับผลิตวิดีโอ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+video-48,BF-VIDEO-048,video,Video & Motion,Interview Plan Minimal,299,ชุดวางแผน/สคริปต์/สตอรีบอร์ดสำหรับผลิตวิดีโอ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+video-49,BF-VIDEO-049,video,Video & Motion,Product Demo Script Minimal,349,ชุดวางแผน/สคริปต์/สตอรีบอร์ดสำหรับผลิตวิดีโอ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+video-50,BF-VIDEO-050,video,Video & Motion,Video Shot List Minimal,399,ชุดวางแผน/สคริปต์/สตอรีบอร์ดสำหรับผลิตวิดีโอ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+marketing-01,BF-MARKETING-001,marketing,Marketing Kits,30-Day Content Calendar,199,เครื่องมือวางแผนแคมเปญและเนื้อหาการตลาด,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+marketing-02,BF-MARKETING-002,marketing,Marketing Kits,Launch Campaign Kit,490,เครื่องมือวางแผนแคมเปญและเนื้อหาการตลาด,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+marketing-03,BF-MARKETING-003,marketing,Marketing Kits,Local Business Growth Kit,390,เครื่องมือวางแผนแคมเปญและเนื้อหาการตลาด,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+marketing-04,BF-MARKETING-004,marketing,Marketing Kits,Email Sequence Pack,249,เครื่องมือวางแผนแคมเปญและเนื้อหาการตลาด,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+marketing-05,BF-MARKETING-005,marketing,Marketing Kits,Social Caption Library,199,เครื่องมือวางแผนแคมเปญและเนื้อหาการตลาด,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+marketing-06,BF-MARKETING-006,marketing,Marketing Kits,Lead Magnet Blueprint,299,เครื่องมือวางแผนแคมเปญและเนื้อหาการตลาด,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+marketing-07,BF-MARKETING-007,marketing,Marketing Kits,Offer & Pricing Worksheet,199,เครื่องมือวางแผนแคมเปญและเนื้อหาการตลาด,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+marketing-08,BF-MARKETING-008,marketing,Marketing Kits,Customer Journey Map,390,เครื่องมือวางแผนแคมเปญและเนื้อหาการตลาด,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+marketing-09,BF-MARKETING-009,marketing,Marketing Kits,SEO Content Planner,299,เครื่องมือวางแผนแคมเปญและเนื้อหาการตลาด,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+marketing-10,BF-MARKETING-010,marketing,Marketing Kits,Affiliate Starter Kit,490,เครื่องมือวางแผนแคมเปญและเนื้อหาการตลาด,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+marketing-11,BF-MARKETING-011,marketing,Marketing Kits,30-Day Content Calendar Essential,149,เครื่องมือวางแผนแคมเปญและเนื้อหาการตลาด,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+marketing-12,BF-MARKETING-012,marketing,Marketing Kits,90-Day Campaign Planner Essential,199,เครื่องมือวางแผนแคมเปญและเนื้อหาการตลาด,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+marketing-13,BF-MARKETING-013,marketing,Marketing Kits,Email Welcome Sequence Essential,249,เครื่องมือวางแผนแคมเปญและเนื้อหาการตลาด,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+marketing-14,BF-MARKETING-014,marketing,Marketing Kits,Product Launch Plan Essential,299,เครื่องมือวางแผนแคมเปญและเนื้อหาการตลาด,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+marketing-15,BF-MARKETING-015,marketing,Marketing Kits,Social Media Strategy Essential,349,เครื่องมือวางแผนแคมเปญและเนื้อหาการตลาด,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+marketing-16,BF-MARKETING-016,marketing,Marketing Kits,SEO Content Brief Essential,149,เครื่องมือวางแผนแคมเปญและเนื้อหาการตลาด,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+marketing-17,BF-MARKETING-017,marketing,Marketing Kits,Ad Copy Kit Essential,199,เครื่องมือวางแผนแคมเปญและเนื้อหาการตลาด,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+marketing-18,BF-MARKETING-018,marketing,Marketing Kits,Lead Nurture Sequence Essential,249,เครื่องมือวางแผนแคมเปญและเนื้อหาการตลาด,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+marketing-19,BF-MARKETING-019,marketing,Marketing Kits,Influencer Brief Essential,299,เครื่องมือวางแผนแคมเปญและเนื้อหาการตลาด,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+marketing-20,BF-MARKETING-020,marketing,Marketing Kits,Campaign Report Essential,349,เครื่องมือวางแผนแคมเปญและเนื้อหาการตลาด,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+marketing-21,BF-MARKETING-021,marketing,Marketing Kits,30-Day Content Calendar Pro,149,เครื่องมือวางแผนแคมเปญและเนื้อหาการตลาด,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+marketing-22,BF-MARKETING-022,marketing,Marketing Kits,90-Day Campaign Planner Pro,199,เครื่องมือวางแผนแคมเปญและเนื้อหาการตลาด,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+marketing-23,BF-MARKETING-023,marketing,Marketing Kits,Email Welcome Sequence Pro,249,เครื่องมือวางแผนแคมเปญและเนื้อหาการตลาด,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+marketing-24,BF-MARKETING-024,marketing,Marketing Kits,Product Launch Plan Edition 24,299,เครื่องมือวางแผนแคมเปญและเนื้อหาการตลาด,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+marketing-25,BF-MARKETING-025,marketing,Marketing Kits,Social Media Strategy Pro,349,เครื่องมือวางแผนแคมเปญและเนื้อหาการตลาด,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+marketing-26,BF-MARKETING-026,marketing,Marketing Kits,SEO Content Brief Pro,149,เครื่องมือวางแผนแคมเปญและเนื้อหาการตลาด,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+marketing-27,BF-MARKETING-027,marketing,Marketing Kits,Ad Copy Kit Pro,199,เครื่องมือวางแผนแคมเปญและเนื้อหาการตลาด,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+marketing-28,BF-MARKETING-028,marketing,Marketing Kits,Lead Nurture Sequence Pro,249,เครื่องมือวางแผนแคมเปญและเนื้อหาการตลาด,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+marketing-29,BF-MARKETING-029,marketing,Marketing Kits,Influencer Brief Pro,299,เครื่องมือวางแผนแคมเปญและเนื้อหาการตลาด,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+marketing-30,BF-MARKETING-030,marketing,Marketing Kits,Campaign Report Pro,349,เครื่องมือวางแผนแคมเปญและเนื้อหาการตลาด,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+marketing-31,BF-MARKETING-031,marketing,Marketing Kits,30-Day Content Calendar Premium,149,เครื่องมือวางแผนแคมเปญและเนื้อหาการตลาด,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+marketing-32,BF-MARKETING-032,marketing,Marketing Kits,90-Day Campaign Planner Premium,199,เครื่องมือวางแผนแคมเปญและเนื้อหาการตลาด,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+marketing-33,BF-MARKETING-033,marketing,Marketing Kits,Email Welcome Sequence Premium,249,เครื่องมือวางแผนแคมเปญและเนื้อหาการตลาด,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+marketing-34,BF-MARKETING-034,marketing,Marketing Kits,Product Launch Plan Premium,299,เครื่องมือวางแผนแคมเปญและเนื้อหาการตลาด,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+marketing-35,BF-MARKETING-035,marketing,Marketing Kits,Social Media Strategy Premium,349,เครื่องมือวางแผนแคมเปญและเนื้อหาการตลาด,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+marketing-36,BF-MARKETING-036,marketing,Marketing Kits,SEO Content Brief Premium,149,เครื่องมือวางแผนแคมเปญและเนื้อหาการตลาด,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+marketing-37,BF-MARKETING-037,marketing,Marketing Kits,Ad Copy Kit Premium,199,เครื่องมือวางแผนแคมเปญและเนื้อหาการตลาด,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+marketing-38,BF-MARKETING-038,marketing,Marketing Kits,Lead Nurture Sequence Premium,249,เครื่องมือวางแผนแคมเปญและเนื้อหาการตลาด,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+marketing-39,BF-MARKETING-039,marketing,Marketing Kits,Influencer Brief Premium,299,เครื่องมือวางแผนแคมเปญและเนื้อหาการตลาด,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+marketing-40,BF-MARKETING-040,marketing,Marketing Kits,Campaign Report Premium,349,เครื่องมือวางแผนแคมเปญและเนื้อหาการตลาด,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+marketing-41,BF-MARKETING-041,marketing,Marketing Kits,30-Day Content Calendar Minimal,149,เครื่องมือวางแผนแคมเปญและเนื้อหาการตลาด,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+marketing-42,BF-MARKETING-042,marketing,Marketing Kits,90-Day Campaign Planner Minimal,199,เครื่องมือวางแผนแคมเปญและเนื้อหาการตลาด,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+marketing-43,BF-MARKETING-043,marketing,Marketing Kits,Email Welcome Sequence Minimal,249,เครื่องมือวางแผนแคมเปญและเนื้อหาการตลาด,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+marketing-44,BF-MARKETING-044,marketing,Marketing Kits,Product Launch Plan Minimal,299,เครื่องมือวางแผนแคมเปญและเนื้อหาการตลาด,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+marketing-45,BF-MARKETING-045,marketing,Marketing Kits,Social Media Strategy Minimal,349,เครื่องมือวางแผนแคมเปญและเนื้อหาการตลาด,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+marketing-46,BF-MARKETING-046,marketing,Marketing Kits,SEO Content Brief Minimal,149,เครื่องมือวางแผนแคมเปญและเนื้อหาการตลาด,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+marketing-47,BF-MARKETING-047,marketing,Marketing Kits,Ad Copy Kit Minimal,199,เครื่องมือวางแผนแคมเปญและเนื้อหาการตลาด,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+marketing-48,BF-MARKETING-048,marketing,Marketing Kits,Lead Nurture Sequence Minimal,249,เครื่องมือวางแผนแคมเปญและเนื้อหาการตลาด,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+marketing-49,BF-MARKETING-049,marketing,Marketing Kits,Influencer Brief Minimal,299,เครื่องมือวางแผนแคมเปญและเนื้อหาการตลาด,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+marketing-50,BF-MARKETING-050,marketing,Marketing Kits,Campaign Report Minimal,349,เครื่องมือวางแผนแคมเปญและเนื้อหาการตลาด,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ai-01,BF-AI-001,ai,AI Creative Packs,Cyber Gold Prompt Pack,149,ชุด prompt และ worksheet ที่นำไปใช้กับงานจริงได้,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ai-02,BF-AI-002,ai,AI Creative Packs,Product Photo Prompt Kit,199,ชุด prompt และ worksheet ที่นำไปใช้กับงานจริงได้,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ai-03,BF-AI-003,ai,AI Creative Packs,Brand Moodboard Prompts,199,ชุด prompt และ worksheet ที่นำไปใช้กับงานจริงได้,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ai-04,BF-AI-004,ai,AI Creative Packs,Social Campaign Prompts,149,ชุด prompt และ worksheet ที่นำไปใช้กับงานจริงได้,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ai-05,BF-AI-005,ai,AI Creative Packs,Website Hero Prompt Set,199,ชุด prompt และ worksheet ที่นำไปใช้กับงานจริงได้,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ai-06,BF-AI-006,ai,AI Creative Packs,Presentation Visual Prompts,149,ชุด prompt และ worksheet ที่นำไปใช้กับงานจริงได้,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ai-07,BF-AI-007,ai,AI Creative Packs,Cafe Visual Pack,199,ชุด prompt และ worksheet ที่นำไปใช้กับงานจริงได้,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ai-08,BF-AI-008,ai,AI Creative Packs,Fashion Editorial Prompts,249,ชุด prompt และ worksheet ที่นำไปใช้กับงานจริงได้,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ai-09,BF-AI-009,ai,AI Creative Packs,Icon & UI Prompt Pack,199,ชุด prompt และ worksheet ที่นำไปใช้กับงานจริงได้,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ai-10,BF-AI-010,ai,AI Creative Packs,Creative Workflow Handbook,299,ชุด prompt และ worksheet ที่นำไปใช้กับงานจริงได้,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ai-11,BF-AI-011,ai,AI Creative Packs,Product Photo Prompts Essential,99,ชุด prompt และ worksheet ที่นำไปใช้กับงานจริงได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ai-12,BF-AI-012,ai,AI Creative Packs,Brand Moodboard Prompts Essential,149,ชุด prompt และ worksheet ที่นำไปใช้กับงานจริงได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ai-13,BF-AI-013,ai,AI Creative Packs,Website Copy Prompts Essential,199,ชุด prompt และ worksheet ที่นำไปใช้กับงานจริงได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ai-14,BF-AI-014,ai,AI Creative Packs,Blog Writing Prompts Essential,249,ชุด prompt และ worksheet ที่นำไปใช้กับงานจริงได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ai-15,BF-AI-015,ai,AI Creative Packs,Social Content Prompts Essential,299,ชุด prompt และ worksheet ที่นำไปใช้กับงานจริงได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ai-16,BF-AI-016,ai,AI Creative Packs,Ad Creative Prompts Essential,99,ชุด prompt และ worksheet ที่นำไปใช้กับงานจริงได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ai-17,BF-AI-017,ai,AI Creative Packs,Video Script Prompts Essential,149,ชุด prompt และ worksheet ที่นำไปใช้กับงานจริงได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ai-18,BF-AI-018,ai,AI Creative Packs,Market Research Prompts Essential,199,ชุด prompt และ worksheet ที่นำไปใช้กับงานจริงได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ai-19,BF-AI-019,ai,AI Creative Packs,Customer Support Prompts Essential,249,ชุด prompt และ worksheet ที่นำไปใช้กับงานจริงได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ai-20,BF-AI-020,ai,AI Creative Packs,Product Naming Prompts Essential,299,ชุด prompt และ worksheet ที่นำไปใช้กับงานจริงได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ai-21,BF-AI-021,ai,AI Creative Packs,Product Photo Prompts Edition 21,99,ชุด prompt และ worksheet ที่นำไปใช้กับงานจริงได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ai-22,BF-AI-022,ai,AI Creative Packs,Brand Moodboard Prompts Edition 22,149,ชุด prompt และ worksheet ที่นำไปใช้กับงานจริงได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ai-23,BF-AI-023,ai,AI Creative Packs,Website Copy Prompts Edition 23,199,ชุด prompt และ worksheet ที่นำไปใช้กับงานจริงได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ai-24,BF-AI-024,ai,AI Creative Packs,Blog Writing Prompts Edition 24,249,ชุด prompt และ worksheet ที่นำไปใช้กับงานจริงได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ai-25,BF-AI-025,ai,AI Creative Packs,Social Content Prompts Edition 25,299,ชุด prompt และ worksheet ที่นำไปใช้กับงานจริงได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ai-26,BF-AI-026,ai,AI Creative Packs,Ad Creative Prompts Edition 26,99,ชุด prompt และ worksheet ที่นำไปใช้กับงานจริงได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ai-27,BF-AI-027,ai,AI Creative Packs,Video Script Prompts Edition 27,149,ชุด prompt และ worksheet ที่นำไปใช้กับงานจริงได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ai-28,BF-AI-028,ai,AI Creative Packs,Market Research Prompts Edition 28,199,ชุด prompt และ worksheet ที่นำไปใช้กับงานจริงได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ai-29,BF-AI-029,ai,AI Creative Packs,Customer Support Prompts Edition 29,249,ชุด prompt และ worksheet ที่นำไปใช้กับงานจริงได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ai-30,BF-AI-030,ai,AI Creative Packs,Product Naming Prompts Edition 30,299,ชุด prompt และ worksheet ที่นำไปใช้กับงานจริงได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ai-31,BF-AI-031,ai,AI Creative Packs,Product Photo Prompts Premium,99,ชุด prompt และ worksheet ที่นำไปใช้กับงานจริงได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ai-32,BF-AI-032,ai,AI Creative Packs,Brand Moodboard Prompts Premium,149,ชุด prompt และ worksheet ที่นำไปใช้กับงานจริงได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ai-33,BF-AI-033,ai,AI Creative Packs,Website Copy Prompts Premium,199,ชุด prompt และ worksheet ที่นำไปใช้กับงานจริงได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ai-34,BF-AI-034,ai,AI Creative Packs,Blog Writing Prompts Premium,249,ชุด prompt และ worksheet ที่นำไปใช้กับงานจริงได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ai-35,BF-AI-035,ai,AI Creative Packs,Social Content Prompts Premium,299,ชุด prompt และ worksheet ที่นำไปใช้กับงานจริงได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ai-36,BF-AI-036,ai,AI Creative Packs,Ad Creative Prompts Premium,99,ชุด prompt และ worksheet ที่นำไปใช้กับงานจริงได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ai-37,BF-AI-037,ai,AI Creative Packs,Video Script Prompts Premium,149,ชุด prompt และ worksheet ที่นำไปใช้กับงานจริงได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ai-38,BF-AI-038,ai,AI Creative Packs,Market Research Prompts Premium,199,ชุด prompt และ worksheet ที่นำไปใช้กับงานจริงได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ai-39,BF-AI-039,ai,AI Creative Packs,Customer Support Prompts Premium,249,ชุด prompt และ worksheet ที่นำไปใช้กับงานจริงได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ai-40,BF-AI-040,ai,AI Creative Packs,Product Naming Prompts Premium,299,ชุด prompt และ worksheet ที่นำไปใช้กับงานจริงได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ai-41,BF-AI-041,ai,AI Creative Packs,Product Photo Prompts Minimal,99,ชุด prompt และ worksheet ที่นำไปใช้กับงานจริงได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ai-42,BF-AI-042,ai,AI Creative Packs,Brand Moodboard Prompts Minimal,149,ชุด prompt และ worksheet ที่นำไปใช้กับงานจริงได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ai-43,BF-AI-043,ai,AI Creative Packs,Website Copy Prompts Minimal,199,ชุด prompt และ worksheet ที่นำไปใช้กับงานจริงได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ai-44,BF-AI-044,ai,AI Creative Packs,Blog Writing Prompts Minimal,249,ชุด prompt และ worksheet ที่นำไปใช้กับงานจริงได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ai-45,BF-AI-045,ai,AI Creative Packs,Social Content Prompts Minimal,299,ชุด prompt และ worksheet ที่นำไปใช้กับงานจริงได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ai-46,BF-AI-046,ai,AI Creative Packs,Ad Creative Prompts Minimal,99,ชุด prompt และ worksheet ที่นำไปใช้กับงานจริงได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ai-47,BF-AI-047,ai,AI Creative Packs,Video Script Prompts Minimal,149,ชุด prompt และ worksheet ที่นำไปใช้กับงานจริงได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ai-48,BF-AI-048,ai,AI Creative Packs,Market Research Prompts Minimal,199,ชุด prompt และ worksheet ที่นำไปใช้กับงานจริงได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ai-49,BF-AI-049,ai,AI Creative Packs,Customer Support Prompts Minimal,249,ชุด prompt และ worksheet ที่นำไปใช้กับงานจริงได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+ai-50,BF-AI-050,ai,AI Creative Packs,Product Naming Prompts Minimal,299,ชุด prompt และ worksheet ที่นำไปใช้กับงานจริงได้,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+dashboard-01,BF-DASHBOARD-001,dashboard,Dashboard Templates,EA Essential Dashboard,99,โครงสร้างแดชบอร์ดและตารางติดตาม KPI,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+dashboard-02,BF-DASHBOARD-002,dashboard,Dashboard Templates,Pro Analytics Layout,399,โครงสร้างแดชบอร์ดและตารางติดตาม KPI,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+dashboard-03,BF-DASHBOARD-003,dashboard,Dashboard Templates,Quant Command Layout,799,โครงสร้างแดชบอร์ดและตารางติดตาม KPI,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+dashboard-04,BF-DASHBOARD-004,dashboard,Dashboard Templates,Customer KPI Dashboard,490,โครงสร้างแดชบอร์ดและตารางติดตาม KPI,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+dashboard-05,BF-DASHBOARD-005,dashboard,Dashboard Templates,Sales Pipeline Dashboard,490,โครงสร้างแดชบอร์ดและตารางติดตาม KPI,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+dashboard-06,BF-DASHBOARD-006,dashboard,Dashboard Templates,Finance Overview Layout,590,โครงสร้างแดชบอร์ดและตารางติดตาม KPI,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+dashboard-07,BF-DASHBOARD-007,dashboard,Dashboard Templates,Project Tracker Layout,390,โครงสร้างแดชบอร์ดและตารางติดตาม KPI,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+dashboard-08,BF-DASHBOARD-008,dashboard,Dashboard Templates,Membership Admin Layout,590,โครงสร้างแดชบอร์ดและตารางติดตาม KPI,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+dashboard-09,BF-DASHBOARD-009,dashboard,Dashboard Templates,Order Operations Layout,590,โครงสร้างแดชบอร์ดและตารางติดตาม KPI,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+dashboard-10,BF-DASHBOARD-010,dashboard,Dashboard Templates,Portfolio Performance Layout,490,โครงสร้างแดชบอร์ดและตารางติดตาม KPI,ไฟล์ดิจิทัล/Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+dashboard-11,BF-DASHBOARD-011,dashboard,Dashboard Templates,Sales KPI Dashboard Essential,249,โครงสร้างแดชบอร์ดและตารางติดตาม KPI,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+dashboard-12,BF-DASHBOARD-012,dashboard,Dashboard Templates,Marketing KPI Dashboard Essential,299,โครงสร้างแดชบอร์ดและตารางติดตาม KPI,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+dashboard-13,BF-DASHBOARD-013,dashboard,Dashboard Templates,Customer Support Dashboard Essential,349,โครงสร้างแดชบอร์ดและตารางติดตาม KPI,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+dashboard-14,BF-DASHBOARD-014,dashboard,Dashboard Templates,Subscription Metrics Essential,399,โครงสร้างแดชบอร์ดและตารางติดตาม KPI,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+dashboard-15,BF-DASHBOARD-015,dashboard,Dashboard Templates,Ecommerce Overview Essential,449,โครงสร้างแดชบอร์ดและตารางติดตาม KPI,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+dashboard-16,BF-DASHBOARD-016,dashboard,Dashboard Templates,Project Status Dashboard Essential,249,โครงสร้างแดชบอร์ดและตารางติดตาม KPI,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+dashboard-17,BF-DASHBOARD-017,dashboard,Dashboard Templates,Finance Overview Essential,299,โครงสร้างแดชบอร์ดและตารางติดตาม KPI,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+dashboard-18,BF-DASHBOARD-018,dashboard,Dashboard Templates,Sales Pipeline Dashboard Essential,349,โครงสร้างแดชบอร์ดและตารางติดตาม KPI,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+dashboard-19,BF-DASHBOARD-019,dashboard,Dashboard Templates,EA Performance Journal Essential,399,โครงสร้างแดชบอร์ดและตารางติดตาม KPI,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+dashboard-20,BF-DASHBOARD-020,dashboard,Dashboard Templates,Backtest Results Dashboard Essential,449,โครงสร้างแดชบอร์ดและตารางติดตาม KPI,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+dashboard-21,BF-DASHBOARD-021,dashboard,Dashboard Templates,Sales KPI Dashboard Pro,249,โครงสร้างแดชบอร์ดและตารางติดตาม KPI,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+dashboard-22,BF-DASHBOARD-022,dashboard,Dashboard Templates,Marketing KPI Dashboard Pro,299,โครงสร้างแดชบอร์ดและตารางติดตาม KPI,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+dashboard-23,BF-DASHBOARD-023,dashboard,Dashboard Templates,Customer Support Dashboard Pro,349,โครงสร้างแดชบอร์ดและตารางติดตาม KPI,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+dashboard-24,BF-DASHBOARD-024,dashboard,Dashboard Templates,Subscription Metrics Pro,399,โครงสร้างแดชบอร์ดและตารางติดตาม KPI,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+dashboard-25,BF-DASHBOARD-025,dashboard,Dashboard Templates,Ecommerce Overview Pro,449,โครงสร้างแดชบอร์ดและตารางติดตาม KPI,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+dashboard-26,BF-DASHBOARD-026,dashboard,Dashboard Templates,Project Status Dashboard Edition 26,249,โครงสร้างแดชบอร์ดและตารางติดตาม KPI,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+dashboard-27,BF-DASHBOARD-027,dashboard,Dashboard Templates,Finance Overview Pro,299,โครงสร้างแดชบอร์ดและตารางติดตาม KPI,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+dashboard-28,BF-DASHBOARD-028,dashboard,Dashboard Templates,Sales Pipeline Dashboard Pro,349,โครงสร้างแดชบอร์ดและตารางติดตาม KPI,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+dashboard-29,BF-DASHBOARD-029,dashboard,Dashboard Templates,EA Performance Journal Pro,399,โครงสร้างแดชบอร์ดและตารางติดตาม KPI,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+dashboard-30,BF-DASHBOARD-030,dashboard,Dashboard Templates,Backtest Results Dashboard Pro,449,โครงสร้างแดชบอร์ดและตารางติดตาม KPI,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+dashboard-31,BF-DASHBOARD-031,dashboard,Dashboard Templates,Sales KPI Dashboard Premium,249,โครงสร้างแดชบอร์ดและตารางติดตาม KPI,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+dashboard-32,BF-DASHBOARD-032,dashboard,Dashboard Templates,Marketing KPI Dashboard Premium,299,โครงสร้างแดชบอร์ดและตารางติดตาม KPI,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+dashboard-33,BF-DASHBOARD-033,dashboard,Dashboard Templates,Customer Support Dashboard Premium,349,โครงสร้างแดชบอร์ดและตารางติดตาม KPI,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+dashboard-34,BF-DASHBOARD-034,dashboard,Dashboard Templates,Subscription Metrics Premium,399,โครงสร้างแดชบอร์ดและตารางติดตาม KPI,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+dashboard-35,BF-DASHBOARD-035,dashboard,Dashboard Templates,Ecommerce Overview Premium,449,โครงสร้างแดชบอร์ดและตารางติดตาม KPI,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+dashboard-36,BF-DASHBOARD-036,dashboard,Dashboard Templates,Project Status Dashboard Premium,249,โครงสร้างแดชบอร์ดและตารางติดตาม KPI,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+dashboard-37,BF-DASHBOARD-037,dashboard,Dashboard Templates,Finance Overview Premium,299,โครงสร้างแดชบอร์ดและตารางติดตาม KPI,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+dashboard-38,BF-DASHBOARD-038,dashboard,Dashboard Templates,Sales Pipeline Dashboard Premium,349,โครงสร้างแดชบอร์ดและตารางติดตาม KPI,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+dashboard-39,BF-DASHBOARD-039,dashboard,Dashboard Templates,EA Performance Journal Premium,399,โครงสร้างแดชบอร์ดและตารางติดตาม KPI,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+dashboard-40,BF-DASHBOARD-040,dashboard,Dashboard Templates,Backtest Results Dashboard Premium,449,โครงสร้างแดชบอร์ดและตารางติดตาม KPI,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+dashboard-41,BF-DASHBOARD-041,dashboard,Dashboard Templates,Sales KPI Dashboard Minimal,249,โครงสร้างแดชบอร์ดและตารางติดตาม KPI,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+dashboard-42,BF-DASHBOARD-042,dashboard,Dashboard Templates,Marketing KPI Dashboard Minimal,299,โครงสร้างแดชบอร์ดและตารางติดตาม KPI,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+dashboard-43,BF-DASHBOARD-043,dashboard,Dashboard Templates,Customer Support Dashboard Minimal,349,โครงสร้างแดชบอร์ดและตารางติดตาม KPI,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+dashboard-44,BF-DASHBOARD-044,dashboard,Dashboard Templates,Subscription Metrics Minimal,399,โครงสร้างแดชบอร์ดและตารางติดตาม KPI,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+dashboard-45,BF-DASHBOARD-045,dashboard,Dashboard Templates,Ecommerce Overview Minimal,449,โครงสร้างแดชบอร์ดและตารางติดตาม KPI,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+dashboard-46,BF-DASHBOARD-046,dashboard,Dashboard Templates,Project Status Dashboard Minimal,249,โครงสร้างแดชบอร์ดและตารางติดตาม KPI,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+dashboard-47,BF-DASHBOARD-047,dashboard,Dashboard Templates,Finance Overview Minimal,299,โครงสร้างแดชบอร์ดและตารางติดตาม KPI,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+dashboard-48,BF-DASHBOARD-048,dashboard,Dashboard Templates,Sales Pipeline Dashboard Minimal,349,โครงสร้างแดชบอร์ดและตารางติดตาม KPI,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+dashboard-49,BF-DASHBOARD-049,dashboard,Dashboard Templates,EA Performance Journal Minimal,399,โครงสร้างแดชบอร์ดและตารางติดตาม KPI,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+dashboard-50,BF-DASHBOARD-050,dashboard,Dashboard Templates,Backtest Results Dashboard Minimal,449,โครงสร้างแดชบอร์ดและตารางติดตาม KPI,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+service-01,BF-SERVICE-001,service,Business Services & Documents,EA Strategy Review,499,เอกสารและ template สำหรับงานบริการและการดำเนินธุรกิจ,งานบริการตามขอบเขตที่ยืนยัน,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+service-02,BF-SERVICE-002,service,Business Services & Documents,EA Code Audit,799,เอกสารและ template สำหรับงานบริการและการดำเนินธุรกิจ,งานบริการตามขอบเขตที่ยืนยัน,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+service-03,BF-SERVICE-003,service,Business Services & Documents,Backtest Report Review,599,เอกสารและ template สำหรับงานบริการและการดำเนินธุรกิจ,งานบริการตามขอบเขตที่ยืนยัน,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+service-04,BF-SERVICE-004,service,Business Services & Documents,Website Customization,1490,เอกสารและ template สำหรับงานบริการและการดำเนินธุรกิจ,งานบริการตามขอบเขตที่ยืนยัน,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+service-05,BF-SERVICE-005,service,Business Services & Documents,Brand Kit Customization,990,เอกสารและ template สำหรับงานบริการและการดำเนินธุรกิจ,งานบริการตามขอบเขตที่ยืนยัน,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+service-06,BF-SERVICE-006,service,Business Services & Documents,Presentation Customization,790,เอกสารและ template สำหรับงานบริการและการดำเนินธุรกิจ,งานบริการตามขอบเขตที่ยืนยัน,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+service-07,BF-SERVICE-007,service,Business Services & Documents,Marketing Setup,990,เอกสารและ template สำหรับงานบริการและการดำเนินธุรกิจ,งานบริการตามขอบเขตที่ยืนยัน,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+service-08,BF-SERVICE-008,service,Business Services & Documents,Dashboard Customization,990,เอกสารและ template สำหรับงานบริการและการดำเนินธุรกิจ,งานบริการตามขอบเขตที่ยืนยัน,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+service-09,BF-SERVICE-009,service,Business Services & Documents,Template Personalization,490,เอกสารและ template สำหรับงานบริการและการดำเนินธุรกิจ,งานบริการตามขอบเขตที่ยืนยัน,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+service-10,BF-SERVICE-010,service,Business Services & Documents,Technical Consultation,399,เอกสารและ template สำหรับงานบริการและการดำเนินธุรกิจ,งานบริการตามขอบเขตที่ยืนยัน,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+service-11,BF-SERVICE-011,service,Business Services & Documents,Website Design Brief Essential,199,เอกสารและ template สำหรับงานบริการและการดำเนินธุรกิจ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+service-12,BF-SERVICE-012,service,Business Services & Documents,Brand Identity Brief Essential,249,เอกสารและ template สำหรับงานบริการและการดำเนินธุรกิจ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+service-13,BF-SERVICE-013,service,Business Services & Documents,Presentation Brief Essential,299,เอกสารและ template สำหรับงานบริการและการดำเนินธุรกิจ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+service-14,BF-SERVICE-014,service,Business Services & Documents,Video Production Brief Essential,349,เอกสารและ template สำหรับงานบริการและการดำเนินธุรกิจ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+service-15,BF-SERVICE-015,service,Business Services & Documents,Marketing Campaign Brief Essential,399,เอกสารและ template สำหรับงานบริการและการดำเนินธุรกิจ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+service-16,BF-SERVICE-016,service,Business Services & Documents,EA Strategy Brief Essential,199,เอกสารและ template สำหรับงานบริการและการดำเนินธุรกิจ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+service-17,BF-SERVICE-017,service,Business Services & Documents,EA Test Plan Essential,249,เอกสารและ template สำหรับงานบริการและการดำเนินธุรกิจ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+service-18,BF-SERVICE-018,service,Business Services & Documents,Business Plan Workbook Essential,299,เอกสารและ template สำหรับงานบริการและการดำเนินธุรกิจ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+service-19,BF-SERVICE-019,service,Business Services & Documents,Project Proposal Essential,349,เอกสารและ template สำหรับงานบริการและการดำเนินธุรกิจ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+service-20,BF-SERVICE-020,service,Business Services & Documents,Client Intake Form Essential,399,เอกสารและ template สำหรับงานบริการและการดำเนินธุรกิจ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+service-21,BF-SERVICE-021,service,Business Services & Documents,Website Design Brief Pro,199,เอกสารและ template สำหรับงานบริการและการดำเนินธุรกิจ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+service-22,BF-SERVICE-022,service,Business Services & Documents,Brand Identity Brief Pro,249,เอกสารและ template สำหรับงานบริการและการดำเนินธุรกิจ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+service-23,BF-SERVICE-023,service,Business Services & Documents,Presentation Brief Pro,299,เอกสารและ template สำหรับงานบริการและการดำเนินธุรกิจ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+service-24,BF-SERVICE-024,service,Business Services & Documents,Video Production Brief Edition 24,349,เอกสารและ template สำหรับงานบริการและการดำเนินธุรกิจ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+service-25,BF-SERVICE-025,service,Business Services & Documents,Marketing Campaign Brief Pro,399,เอกสารและ template สำหรับงานบริการและการดำเนินธุรกิจ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+service-26,BF-SERVICE-026,service,Business Services & Documents,EA Strategy Brief Pro,199,เอกสารและ template สำหรับงานบริการและการดำเนินธุรกิจ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+service-27,BF-SERVICE-027,service,Business Services & Documents,EA Test Plan Pro,249,เอกสารและ template สำหรับงานบริการและการดำเนินธุรกิจ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+service-28,BF-SERVICE-028,service,Business Services & Documents,Business Plan Workbook Pro,299,เอกสารและ template สำหรับงานบริการและการดำเนินธุรกิจ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+service-29,BF-SERVICE-029,service,Business Services & Documents,Project Proposal Edition 29,349,เอกสารและ template สำหรับงานบริการและการดำเนินธุรกิจ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+service-30,BF-SERVICE-030,service,Business Services & Documents,Client Intake Form Pro,399,เอกสารและ template สำหรับงานบริการและการดำเนินธุรกิจ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+service-31,BF-SERVICE-031,service,Business Services & Documents,Website Design Brief Premium,199,เอกสารและ template สำหรับงานบริการและการดำเนินธุรกิจ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+service-32,BF-SERVICE-032,service,Business Services & Documents,Brand Identity Brief Premium,249,เอกสารและ template สำหรับงานบริการและการดำเนินธุรกิจ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+service-33,BF-SERVICE-033,service,Business Services & Documents,Presentation Brief Premium,299,เอกสารและ template สำหรับงานบริการและการดำเนินธุรกิจ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+service-34,BF-SERVICE-034,service,Business Services & Documents,Video Production Brief Premium,349,เอกสารและ template สำหรับงานบริการและการดำเนินธุรกิจ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+service-35,BF-SERVICE-035,service,Business Services & Documents,Marketing Campaign Brief Premium,399,เอกสารและ template สำหรับงานบริการและการดำเนินธุรกิจ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+service-36,BF-SERVICE-036,service,Business Services & Documents,EA Strategy Brief Premium,199,เอกสารและ template สำหรับงานบริการและการดำเนินธุรกิจ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+service-37,BF-SERVICE-037,service,Business Services & Documents,EA Test Plan Premium,249,เอกสารและ template สำหรับงานบริการและการดำเนินธุรกิจ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+service-38,BF-SERVICE-038,service,Business Services & Documents,Business Plan Workbook Premium,299,เอกสารและ template สำหรับงานบริการและการดำเนินธุรกิจ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+service-39,BF-SERVICE-039,service,Business Services & Documents,Project Proposal Premium,349,เอกสารและ template สำหรับงานบริการและการดำเนินธุรกิจ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+service-40,BF-SERVICE-040,service,Business Services & Documents,Client Intake Form Premium,399,เอกสารและ template สำหรับงานบริการและการดำเนินธุรกิจ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+service-41,BF-SERVICE-041,service,Business Services & Documents,Website Design Brief Minimal,199,เอกสารและ template สำหรับงานบริการและการดำเนินธุรกิจ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+service-42,BF-SERVICE-042,service,Business Services & Documents,Brand Identity Brief Minimal,249,เอกสารและ template สำหรับงานบริการและการดำเนินธุรกิจ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+service-43,BF-SERVICE-043,service,Business Services & Documents,Presentation Brief Minimal,299,เอกสารและ template สำหรับงานบริการและการดำเนินธุรกิจ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+service-44,BF-SERVICE-044,service,Business Services & Documents,Video Production Brief Minimal,349,เอกสารและ template สำหรับงานบริการและการดำเนินธุรกิจ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+service-45,BF-SERVICE-045,service,Business Services & Documents,Marketing Campaign Brief Minimal,399,เอกสารและ template สำหรับงานบริการและการดำเนินธุรกิจ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+service-46,BF-SERVICE-046,service,Business Services & Documents,EA Strategy Brief Minimal,199,เอกสารและ template สำหรับงานบริการและการดำเนินธุรกิจ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+service-47,BF-SERVICE-047,service,Business Services & Documents,EA Test Plan Minimal,249,เอกสารและ template สำหรับงานบริการและการดำเนินธุรกิจ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+service-48,BF-SERVICE-048,service,Business Services & Documents,Business Plan Workbook Minimal,299,เอกสารและ template สำหรับงานบริการและการดำเนินธุรกิจ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+service-49,BF-SERVICE-049,service,Business Services & Documents,Project Proposal Minimal,349,เอกสารและ template สำหรับงานบริการและการดำเนินธุรกิจ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA
+service-50,BF-SERVICE-050,service,Business Services & Documents,Client Intake Form Minimal,399,เอกสารและ template สำหรับงานบริการและการดำเนินธุรกิจ,ไฟล์ดิจิทัล / Template,CATALOG_PLACEHOLDER_REQUIRES_ASSET_QA

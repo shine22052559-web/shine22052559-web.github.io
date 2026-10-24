@@ -1,0 +1,6 @@
+metric,value,unit,source_or_assumption,confidence
+Monthly orders,100,orders/month,Illustrative assumption,Low
+Average order value,650,THB/order,Illustrative assumption,Low
+Gross margin,0.65,ratio,Illustrative assumption,Low
+Payment fee,0.03,ratio,Replace with provider fee,Medium
+Refund rate,0.02,ratio,Illustrative assumption,Low

@@ -1,0 +1,8 @@
+field,label,required,notes
+client_name,ชื่อลูกค้า,yes,
+email,อีเมล,yes,Use for project updates
+service,บริการที่ต้องการ,yes,
+goal,เป้าหมาย,yes,
+reference_links,ลิงก์อ้างอิง,no,
+budget,งบประมาณ,no,
+deadline,กำหนดส่ง,no,Confirm feasibility

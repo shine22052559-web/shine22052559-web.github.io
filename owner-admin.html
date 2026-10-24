@@ -1,0 +1,84 @@
+<!doctype html><html lang="th"><head><meta charset="utf-8"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#080a18"><title>BRAINFORZE Owner Admin</title><link rel="stylesheet" href="styles.css"><style>
+body{background:#080a18;color:#eef2ff;font-family:'Kanit',sans-serif}
+.wrap{max-width:1100px;margin:auto;padding:22px 16px 60px}
+.panel{background:#10152a;border:1px solid #42446d;border-radius:14px;padding:16px;margin:14px 0}
+.hint{color:#aab6d8;font-size:.88rem;line-height:1.7}
+input,select,textarea,button{font:inherit;padding:9px 11px;border-radius:9px;border:1px solid #59658c;background:#080d20;color:#fff;max-width:100%}
+button{cursor:pointer;background:#172b48;border-color:#55dff5}
+button:disabled{opacity:.45;cursor:not-allowed}
+button.danger{border-color:#ff7a7a;background:#2a1020}
+button.ok{border-color:#7cefa8;background:#12301f}
+.row{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.field{display:grid;gap:5px;margin:10px 0}
+table{width:100%;border-collapse:collapse;font-size:.88rem}
+th,td{padding:9px 8px;border-bottom:1px solid #26305a;text-align:left;vertical-align:top}
+tr.click{cursor:pointer}tr.click:hover{background:#141b36}
+.tag{display:inline-block;padding:2px 8px;border-radius:999px;border:1px solid #3c4a78;font-size:.75rem;margin:2px 2px 2px 0;color:#cfd9ff}
+.tag.on{border-color:#7cefa8;color:#c6ffdc}.tag.warn{border-color:#ffd36b;color:#ffeab0}.tag.off{border-color:#ff7a7a;color:#ffc2c2}
+.err{color:#ffb4b4;font-size:.88rem;margin-top:8px}
+.muted{color:#8f9bc0;font-size:.85rem}
+.hide{display:none!important}
+.qr{max-width:200px;background:#fff;padding:6px;border-radius:8px;display:block;margin:8px 0}
+ul.ev{padding-left:18px;margin:6px 0;color:#c9d3f5;font-size:.85rem}
+@media(max-width:720px){th:nth-child(3),td:nth-child(3){display:none}}
+</style><link rel="stylesheet" href="home-gold.css">
+<link rel="stylesheet" href="home-lux-cyber.css">
+<link rel="stylesheet" href="theme-global-lux-cyber.css">
+</head><body class="home-page"><main class="wrap">
+<h1 style="margin:6px 0">BRAINFORZE · OWNER ADMIN</h1>
+<p class="hint">หน้าสำหรับเจ้าของร้านเท่านั้น ข้อมูลทั้งหมดอยู่บนเซิร์ฟเวอร์ ใช้ได้จากทุกอุปกรณ์ที่ล็อกอิน</p>
+
+<section class="panel" id="loginBox">
+<h2 style="margin-top:0">เข้าสู่ระบบ</h2>
+<div class="row"><input id="pw" type="password" placeholder="รหัสผ่านแอดมิน" autocomplete="current-password"><button id="loginBtn" type="button">เข้าสู่ระบบ</button></div>
+<div class="err" id="loginErr"></div>
+</section>
+
+<div id="dash" class="hide">
+<section class="panel">
+<div class="row" style="justify-content:space-between"><h2 style="margin:0">คำสั่งซื้อ</h2>
+<div class="row"><select id="filter"><option value="all">ทั้งหมด</option><option value="await_line">รอ LINE</option><option value="await_pay">รอชำระ</option><option value="reported">แจ้งโอนแล้ว</option><option value="paid">ชำระแล้ว</option><option value="cancelled">ยกเลิก</option></select><button id="refreshList" type="button">รีเฟรช</button><button id="logoutBtn" type="button">ออกจากระบบ</button></div></div>
+<div style="overflow-x:auto"><table><thead><tr><th>รหัส</th><th>ลูกค้า</th><th>ยอด</th><th>สถานะ</th><th>วันที่</th></tr></thead><tbody id="rows"></tbody></table></div>
+<p class="muted" id="emptyNote"></p>
+</section>
+
+<section class="panel hide" id="detail">
+<div class="row" style="justify-content:space-between"><h2 style="margin:0" id="dCode"></h2><button id="closeDetail" type="button">ปิด</button></div>
+<div id="dTags" style="margin:8px 0"></div>
+<div id="dInfo" class="hint"></div>
+
+<h3>การดำเนินการ</h3>
+<div class="row" id="actions"></div>
+<div class="row" style="margin-top:8px"><input id="priceInput" type="number" min="0" step="1" placeholder="ยอดชำระ (บาท)"><button id="setPriceBtn" type="button">กำหนดยอด</button></div>
+<div class="row" style="margin-top:8px"><input id="noteInput" maxlength="300" placeholder="บันทึกภายใน"><button id="noteBtn" type="button">บันทึก</button></div>
+
+<h3>ไฟล์ส่งมอบ</h3>
+<p class="hint">อัปโหลดได้ไม่เกิน 4 MB ต่อไฟล์ ลูกค้าจะดาวน์โหลดได้หลังสถานะเป็นชำระแล้วเท่านั้น</p>
+<div class="row"><input id="fileInput" type="file"><button id="uploadBtn" type="button">อัปโหลดไฟล์</button></div>
+<div id="files" style="margin-top:8px"></div>
+
+<h3>ประวัติ</h3>
+<ul class="ev" id="events"></ul>
+<div class="err" id="dErr"></div>
+</section>
+
+<section class="panel">
+<h2 style="margin-top:0">ช่องทางชำระเงิน (แสดงให้ลูกค้าที่ยืนยัน LINE แล้วเท่านั้น)</h2>
+<div class="field"><label for="pHolder">ชื่อบัญชี</label><input id="pHolder" maxlength="200"></div>
+<div class="field"><label for="pAccount">เลขบัญชี / พร้อมเพย์</label><input id="pAccount" maxlength="200"></div>
+<div class="field"><label for="pQr">QR Code (png/jpg/webp/gif ไม่เกิน 1.5 MB)</label><input id="pQr" type="file" accept="image/*"></div>
+<div id="qrPreview"></div>
+<div class="row"><button id="savePay" class="ok" type="button">บันทึกช่องทางชำระ</button><button id="clearQr" class="danger" type="button">ลบ QR</button></div>
+<div class="err" id="pErr"></div>
+</section>
+</div>
+</main>
+
+<script src="owner-admin.js"></script>
+
+<a class="bf-line-oa-fab" href="https://lin.ee/NaVtUAY" target="_blank" rel="noopener noreferrer" aria-label="สอบถามปัญหาหรือแจ้งชำระเงินผ่าน LINE Official Account">
+  <span class="bf-line-oa-icon" aria-hidden="true">LINE</span>
+  <span class="bf-line-oa-label"><span>สอบถาม / แจ้งชำระเงิน</span><small>LINE Official Account · BRAINFORZE</small></span>
+</a>
+
+</body></html>

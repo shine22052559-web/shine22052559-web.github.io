@@ -1,0 +1,202 @@
+[
+ {
+  "source": "46915.png",
+  "file": "assets/shop/prod-clocks-luxury.webp",
+  "label": "เซ็ตนาฬิกาตั้งโต๊ะหรู",
+  "type": "other",
+  "size": [
+   1000,
+   667
+  ]
+ },
+ {
+  "source": "46914.png",
+  "file": "assets/shop/prod-skincare-luxury.webp",
+  "label": "ชุดสกินแคร์หรู",
+  "type": "other",
+  "size": [
+   1000,
+   667
+  ]
+ },
+ {
+  "source": "46904.png",
+  "file": "assets/shop/banner-balcony-city.webp",
+  "label": "ภาพแบนเนอร์ เมืองลอยฟ้า",
+  "type": "other",
+  "size": [
+   1000,
+   667
+  ]
+ },
+ {
+  "source": "46902.png",
+  "file": "assets/shop/banner-balcony-city-2.webp",
+  "label": "ภาพแบนเนอร์ เมืองลอยฟ้า 2",
+  "type": "other",
+  "size": [
+   1000,
+   667
+  ]
+ },
+ {
+  "source": "46903.png",
+  "file": "assets/shop/banner-cyber-street.webp",
+  "label": "ภาพแบนเนอร์ ถนนไซเบอร์พังค์",
+  "type": "other",
+  "size": [
+   1000,
+   667
+  ]
+ },
+ {
+  "source": "46916.png",
+  "file": "assets/shop/banner-phoenix.webp",
+  "label": "ภาพแบนเนอร์ นกฟีนิกซ์",
+  "type": "other",
+  "size": [
+   1000,
+   667
+  ]
+ },
+ {
+  "source": "44612.png",
+  "file": "assets/shop/ea-all-in-strong-ema.webp",
+  "label": "ALL IN STRONG EMA MOMENTUM V1.1",
+  "type": "EA",
+  "size": [
+   950,
+   1000
+  ]
+ },
+ {
+  "source": "44613.png",
+  "file": "assets/shop/ea-gold-titan-x15.webp",
+  "label": "GOLD TITAN X1.5 AI",
+  "type": "EA",
+  "size": [
+   1000,
+   1000
+  ]
+ },
+ {
+  "source": "44614.png",
+  "file": "assets/shop/ea-gold-hunter-pro-v31.webp",
+  "label": "GOLD HUNTER PRO EA V3.1",
+  "type": "EA",
+  "size": [
+   938,
+   1000
+  ]
+ },
+ {
+  "source": "44617.png",
+  "file": "assets/shop/ea-gold-ai-buy-v127.webp",
+  "label": "GOLD AI BUY STRATEGY V12.7",
+  "type": "EA",
+  "size": [
+   1000,
+   1000
+  ]
+ },
+ {
+  "source": "44616.png",
+  "file": "assets/shop/ea-buy-uptrend-m30-v400.webp",
+  "label": "EA BUY UPTREND ONLY M30 v4.00",
+  "type": "EA",
+  "size": [
+   1000,
+   1000
+  ]
+ },
+ {
+  "source": "44615.png",
+  "file": "assets/shop/ea-gold-fusion-pro-v100.webp",
+  "label": "GOLD FUSION PRO COMPOUND v1.00",
+  "type": "EA",
+  "size": [
+   1000,
+   1000
+  ]
+ },
+ {
+  "source": "44618.png",
+  "file": "assets/shop/ea-jd-platinum-trend-v150.webp",
+  "label": "JD PLATINUM TREND EA v1.50",
+  "type": "EA",
+  "size": [
+   1000,
+   1000
+  ]
+ },
+ {
+  "source": "44619.png",
+  "file": "assets/shop/ea-smart-gold-trader-pro-v435.webp",
+  "label": "SMART GOLD TRADER PRO v4.35",
+  "type": "EA",
+  "size": [
+   1000,
+   1000
+  ]
+ },
+ {
+  "source": "44620.png",
+  "file": "assets/shop/ea-quantum-hedge-x-pro-v120.webp",
+  "label": "QUANTUM HEDGE X PRO v1.20",
+  "type": "EA",
+  "size": [
+   1000,
+   1000
+  ]
+ },
+ {
+  "source": "46917.png",
+  "file": "assets/shop/banner-temple-fantasy.webp",
+  "label": "ภาพแบนเนอร์ วัดลอยฟ้า",
+  "type": "other",
+  "size": [
+   1000,
+   667
+  ]
+ },
+ {
+  "source": "46918.png",
+  "file": "assets/shop/banner-harbor-city.webp",
+  "label": "ภาพแบนเนอร์ เมืองท่า",
+  "type": "other",
+  "size": [
+   1000,
+   667
+  ]
+ },
+ {
+  "source": "46919.png",
+  "file": "assets/shop/banner-warrior-dragon.webp",
+  "label": "ภาพแบนเนอร์ นักรบและมังกร",
+  "type": "other",
+  "size": [
+   1000,
+   667
+  ]
+ },
+ {
+  "source": "46920.png",
+  "file": "assets/shop/banner-desert-city.webp",
+  "label": "ภาพแบนเนอร์ เมืองทะเลทราย",
+  "type": "other",
+  "size": [
+   1000,
+   667
+  ]
+ },
+ {
+  "source": "46921.png",
+  "file": "assets/shop/prod-office-chair.webp",
+  "label": "เก้าอี้ทำงานเออร์โกโนมิก",
+  "type": "other",
+  "size": [
+   1000,
+   667
+  ]
+ }
+]

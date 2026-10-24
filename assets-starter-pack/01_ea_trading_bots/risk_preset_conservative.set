@@ -1,0 +1,7 @@
+; BRAINFORZE conservative preset STARTER — verify variable names in the EA
+InpRiskPercent=0.25
+InpMaxSpreadPoints=25
+InpUseStopLoss=true
+InpUseTakeProfit=true
+InpUseSessionFilter=true
+InpMaxPositions=1

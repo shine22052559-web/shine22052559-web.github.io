@@ -1,0 +1,6 @@
+timecode,duration,visual,voiceover,on_screen_text,audio,asset_needed
+00:00-00:04,4s,Problem shot,Do you need [outcome]?,The problem,Music intro,Licensed clip
+00:04-00:10,6s,Product close-up,Meet [product],Product name,Music builds,Product screen
+00:10-00:20,10s,Three benefits,Get [benefit one],Benefit 1 / 2 / 3,Voice and music,Icons
+00:20-00:26,6s,Proof or demo,See how it works,Demo / evidence,Music resolves,Real screenshot
+00:26-00:30,4s,CTA card,Start today,CTA + URL,End sting,Brand end card

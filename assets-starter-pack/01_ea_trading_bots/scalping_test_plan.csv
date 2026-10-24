@@ -1,0 +1,6 @@
+case,setting,expected_evidence
+Spread stress,normal and widened,net results and trade count
+Commission,broker commission enabled,net profit after costs
+Slippage,simulated adverse slippage,drawdown and expectancy
+Session filter,Asia/London/New York,results by session
+Out-of-sample,unseen date range,performance stability

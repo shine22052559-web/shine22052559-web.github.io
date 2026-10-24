@@ -1,0 +1,18 @@
+BRAINFORZE EA TRIAL CENTER — SETUP (TH)
+
+เพิ่มหน้า ea-trials.html และ API Netlify Function /api/ea-trial
+
+วิธีติดตั้ง
+1) แตก ZIP เว็บไซต์ชุดนี้ทั้งโฟลเดอร์
+2) Deploy โฟลเดอร์เดียวกันขึ้น Netlify โดยให้ netlify.toml, package.json, netlify/functions/ และไฟล์ EA อยู่ใน publish root ตาม ZIP
+3) ตรวจ Netlify deploy log ว่า function ea-trial ถูกสร้างสำเร็จ
+4) เปิด /ea-trials.html กรอกอีเมลทดสอบ แล้วดาวน์โหลดทั้งสามตัว
+5) ตรวจว่าไฟล์แต่ละตัวมีวันหมดอายุ UTC อยู่ใน source และต่างกันตามเวลาที่กดดาวน์โหลด + 7 วัน
+6) เปิดไฟล์ใน MetaEditor, Compile, แล้วทดสอบ Strategy Tester/บัญชี Demo ก่อนใช้
+
+สำคัญ
+- Template ต้นฉบับอยู่ใต้ netlify/lib/templates ซึ่งไม่ใช่ public static path; Function สร้างไฟล์เฉพาะดาวน์โหลดโดยฝังวันหมดอายุ.
+- Function บันทึกอีเมล/เวลา/ประเภทใน Netlify Blobs; ใช้ข้อมูลเท่าที่จำเป็นและเพิ่ม privacy notice/consent ตามกฎหมายที่เกี่ยวข้องก่อนเก็บอีเมลลูกค้าจริง.
+- การหมดอายุฝังวันใน source EA และใช้ TimeGMT() ของเครื่อง MT5; ไม่ใช่ DRM ป้องกันการแก้ไขหรือเปลี่ยนนาฬิกาได้เด็ดขาด. หากต้องการป้องกันจริงต้องใช้ license server ตรวจสิทธิ์เป็นระยะและจัดการกรณี offline.
+- Fast-Tick เป็นตัวอย่างกลยุทธ์ tick-based สำหรับ MT5 retail ไม่ใช่ HFT ระดับสถาบัน. ไม่มีการรับประกันกำไร.
+- ยังต้อง Compile และทดสอบ MQL5 ใน MetaEditor/MT5 จริง; ไม่ได้ยืนยันผล compile จากสภาพแวดล้อมนี้.

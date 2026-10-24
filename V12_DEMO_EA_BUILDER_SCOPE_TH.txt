@@ -1,0 +1,31 @@
+BRAINFORZE V12 DEMO EA BUILDER — SCOPE & ACCEPTANCE NOTES (TH)
+
+สถานะ
+- V12 เป็นชุด Demo แบบ Static สำหรับอัปโหลด Netlify; ไม่เปิดรับเงินจริง
+- สืบทอดหน้าและไฟล์เว็บไซต์จาก V11 เพื่อคงหน้าเดิม
+- EA Builder มีฟอร์มและตัวสร้างซอร์ส MQL5 ฝั่ง browser จาก template; ผลลัพธ์ไม่ถือว่า Compile ผ่าน
+
+โมดูลเป้าหมาย
+1) Configurator UI: Symbol, timeframe, strategy, direction, lot, SL/TP, magic, indicator parameters
+2) Rule Builder: condition nodes แบบจำกัดชนิด (crosses above/below, >, <, AND/OR); ไม่รับโค้ดอิสระ
+3) Preset Library: EMA Cross, RSI Reversal, MACD Cross, Donchian Breakout, Trend Following; Grid/Basket/Reverse ต้องแสดงคำเตือนความเสี่ยง
+4) Schema Validator: ตรวจช่วงพารามิเตอร์, fast < slow, lot/SL/TP, lookback, indicator compatibility; แสดงข้อผิดพลาดก่อน generate
+5) Deterministic Generator: template versioned; input เดิมและ version เดิมต้องได้ source เดิม
+6) Compile pipeline: ต้องติดตั้ง MetaEditor/MT5 บน Windows worker; ยังไม่รวมใน static ZIP
+7) Backtest: ต้องเชื่อม MT5 Strategy Tester หรือ backtester ที่มีข้อมูลและระบุข้อจำกัด
+8) Versioning/license/delivery: ต้องมี backend/database, verified payment, license service, mail provider; ยังไม่รวมใน ZIP
+
+ความปลอดภัยและความซื่อสัตย์
+- ห้ามแสดงสถานะ Compile Success หากไม่มีผลจริงจาก MetaEditor
+- ห้ามส่ง .ex5 ก่อน Compile ผ่านและมีการตรวจไฟล์จริง
+- ห้ามรับชำระเงินจริงใน Demo
+- Grid, Martingale, Basket, Reverse อาจเพิ่ม drawdown; ต้องมี max orders, max loss, spread guard และคำเตือน
+- การทดสอบทุก EA เริ่มต้นที่ MT5 Demo; ไม่มีการรับประกันกำไร
+
+เกณฑ์รับงานก่อน production
+- HTML/JS validation, responsive/mobile checks, security review
+- ทดสอบค่าผิดทุกชนิดและ compatibility matrix ของ indicators
+- Golden tests: source output deterministic
+- Compile test ด้วย MetaEditor จริงสำหรับทุก preset
+- Strategy Tester tests, license/payment/email integration tests
+- ไม่เผยแพร่ production จนผ่านเกณฑ์ทั้งหมด

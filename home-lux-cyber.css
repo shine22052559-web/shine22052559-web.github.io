@@ -1,0 +1,131 @@
+/* BRAINFORZE — Luxury x Cyberpunk theme (Blue + Violet, high-end). Loaded after home-gold.css, scoped to .home-page */
+.home-page{
+  --lc-bg:#04050d;
+  --lc-panel:rgba(14,16,38,.72);
+  --lc-ink:#eef0ff;
+  --lc-muted:#a7acd6;
+  --lc-cyan:#52e6ff;
+  --lc-blue:#3d7bff;
+  --lc-violet:#8b5cf6;
+  --lc-magenta:#d946ef;
+  --lc-line:rgba(124,110,255,.30);
+  --lc-grad:linear-gradient(110deg,#52e6ff 0%,#3d7bff 45%,#8b5cf6 75%,#d946ef 100%);
+  --lc-glow:0 0 22px rgba(96,120,255,.35),0 0 60px rgba(139,92,246,.18);
+  background:
+    radial-gradient(ellipse at 82% 6%,rgba(139,92,246,.28),transparent 38%),
+    radial-gradient(ellipse at 6% 40%,rgba(61,123,255,.20),transparent 36%),
+    var(--lc-bg);
+  color:var(--lc-ink);
+  position:relative;
+}
+.home-page::before{content:"";position:fixed;inset:0;pointer-events:none;z-index:0;
+  background-image:linear-gradient(rgba(124,110,255,.06) 1px,transparent 1px),linear-gradient(90deg,rgba(124,110,255,.06) 1px,transparent 1px);
+  background-size:48px 48px;mask-image:radial-gradient(ellipse at 50% 30%,#000 30%,transparent 80%)}
+.home-page main,.home-page footer{position:relative;z-index:1}
+.home-page .hm-header{background:rgba(6,7,20,.78);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border-bottom:1px solid var(--lc-line);box-shadow:0 8px 40px rgba(61,123,255,.12)}
+.home-page .hm-logo-mark{border:1.5px solid var(--lc-cyan);color:var(--lc-cyan);border-radius:12px;background:rgba(82,230,255,.06);text-shadow:0 0 14px var(--lc-cyan);box-shadow:var(--lc-glow)}
+.home-page .hm-logo-text b{color:var(--lc-ink);letter-spacing:.08em}
+.home-page .hm-logo-text b span{background:var(--lc-grad);-webkit-background-clip:text;background-clip:text;color:transparent}
+.home-page .hm-logo-text small{color:var(--lc-muted)}
+.home-page .hm-nav a{color:#cfd3f5;transition:color .2s,text-shadow .2s}
+.home-page .hm-nav a:hover,.home-page .hm-nav a.current{color:var(--lc-cyan);text-shadow:0 0 12px rgba(82,230,255,.6)}
+.home-page .hm-nav a.current{border-bottom:2px solid var(--lc-magenta)}
+.home-page .hm-search{background:rgba(10,12,30,.8);border:1px solid var(--lc-line)}
+.home-page .hm-search:focus-within{border-color:var(--lc-cyan);box-shadow:0 0 16px rgba(82,230,255,.25)}
+.home-page .hm-search input{color:var(--lc-ink)}
+.home-page .hm-cart{color:var(--lc-cyan)}
+.home-page .hm-cart b{background:var(--lc-grad);color:#fff}
+.home-page .hm-btn-gold{background:var(--lc-grad);color:#fff;box-shadow:var(--lc-glow);border:none;font-weight:700}
+.home-page .hm-btn-gold:hover{filter:brightness(1.12);transform:translateY(-1px)}
+.home-page .hm-btn-line{border:1px solid var(--lc-cyan);color:var(--lc-cyan);background:rgba(82,230,255,.06)}
+.home-page .hm-btn-outline{border:1px solid var(--lc-violet);color:#d8c8ff;background:rgba(139,92,246,.08)}
+.home-page .hm-menu{border-color:var(--lc-line);color:var(--lc-cyan)}
+.home-page .hm-hero h1{color:var(--lc-ink);text-shadow:0 0 30px rgba(96,120,255,.25)}
+.home-page .hm-hero h1 em{background:var(--lc-grad);-webkit-background-clip:text;background-clip:text;color:transparent;text-shadow:none}
+.home-page .hm-hero p{color:var(--lc-muted)}
+.home-page .hm-hero{background:linear-gradient(90deg,rgba(4,5,13,1) 0%,rgba(8,10,28,.7) 55%,rgba(20,12,44,.4) 100%)}
+.home-page .hm-stats{border-top:1px solid var(--lc-line)}
+.home-page .hm-stats b{background:var(--lc-grad);-webkit-background-clip:text;background-clip:text;color:transparent;font-size:22px}
+.home-page .hm-stats small,.home-page .hm-disclaimer{color:var(--lc-muted)}
+.home-page .hm-hero-art{border:1px solid var(--lc-line);background:#070818;box-shadow:var(--lc-glow)}
+.home-page .hm-hero-art::after{content:"";position:absolute;inset:0;pointer-events:none;border-radius:18px;background:linear-gradient(180deg,transparent 60%,rgba(4,5,13,.6));}
+.home-page .hm-sec-head h2{color:var(--lc-ink);letter-spacing:.01em}
+.home-page .hm-sec-head h2::after{content:"";display:block;width:64px;height:3px;margin-top:10px;background:var(--lc-grad);border-radius:3px;box-shadow:0 0 12px rgba(139,92,246,.6)}
+.home-page .hm-sec-head p{color:var(--lc-muted)}
+.home-page .hm-link{color:var(--lc-cyan)}
+.home-page .hm-cat{background:var(--lc-panel);border:1px solid var(--lc-line);backdrop-filter:blur(8px)}
+.home-page .hm-cat:hover{border-color:var(--lc-cyan);box-shadow:0 0 24px rgba(82,230,255,.2);transform:translateY(-3px)}
+.home-page .hm-cat-art{background:radial-gradient(circle at 70% 20%,rgba(139,92,246,.55),#0a0b1f 70%);border:1px solid rgba(124,110,255,.4);color:var(--lc-cyan);text-shadow:0 0 12px var(--lc-cyan)}
+.home-page .hm-cat small{color:var(--lc-muted)}
+.home-page .hm-prod{background:var(--lc-panel);border:1px solid var(--lc-line);backdrop-filter:blur(8px);transition:transform .25s,border-color .25s,box-shadow .25s}
+.home-page .hm-prod:hover{transform:translateY(-4px);border-color:var(--lc-violet);box-shadow:var(--lc-glow)}
+.home-page .hm-prod-img{background:radial-gradient(circle at 50% 30%,rgba(61,123,255,.35),#06071a 75%);border:1px solid rgba(124,110,255,.35)}
+.home-page .hm-badge{background:var(--lc-grad);color:#fff}
+.home-page .hm-badge-red{background:linear-gradient(110deg,#ff4fd8,#d946ef);color:#fff}
+.home-page .hm-fav{color:var(--lc-cyan)}
+.home-page .hm-prod h3{color:var(--lc-ink)}
+.home-page .hm-tags span{border:1px solid rgba(124,110,255,.45);color:#cbd0ff;background:rgba(139,92,246,.08)}
+.home-page .hm-meta{color:var(--lc-muted)}
+.home-page .hm-price{background:var(--lc-grad);-webkit-background-clip:text;background-clip:text;color:transparent;font-weight:700}
+.home-page .hm-add{background:var(--lc-grad);color:#fff;box-shadow:0 0 16px rgba(61,123,255,.35)}
+.home-page .hm-add:hover{filter:brightness(1.1)}
+.home-page .hm-banner{background:linear-gradient(90deg,rgba(10,12,34,.95),rgba(26,14,60,.9) 60%,rgba(10,12,34,.95));border:1px solid var(--lc-line);box-shadow:var(--lc-glow)}
+.home-page .hm-banner h2{color:var(--lc-ink)}
+.home-page .hm-banner h2 em{background:var(--lc-grad);-webkit-background-clip:text;background-clip:text;color:transparent;font-style:normal}
+.home-page .hm-banner p{color:var(--lc-muted)}
+.home-page .hm-banner-points li{border-left:1px solid var(--lc-violet)}
+.home-page .hm-banner-points b{color:var(--lc-cyan)}
+.home-page .hm-banner-points small{color:var(--lc-muted)}
+.home-page .hm-strip a{background:var(--lc-panel);border:1px solid var(--lc-line);color:var(--lc-ink)}
+.home-page .hm-strip a:hover{border-color:var(--lc-cyan);box-shadow:0 0 18px rgba(82,230,255,.2)}
+.home-page .hm-strip-art{background:radial-gradient(circle,rgba(139,92,246,.5),#070818)}
+.home-page .hm-strip small{color:var(--lc-muted)}
+.home-page .hm-steps{border-top:1px solid var(--lc-line)}
+.home-page .hm-step-list li{background:var(--lc-panel);border:1px solid var(--lc-line)}
+.home-page .hm-step-list li:hover{border-color:var(--lc-violet)}
+.home-page .hm-step-list span{background:var(--lc-grad);-webkit-background-clip:text;background-clip:text;color:transparent;font-weight:700;font-size:15px}
+.home-page .hm-step-list h3{color:var(--lc-ink)}
+.home-page .hm-step-list p{color:var(--lc-muted)}
+.home-page .hm-footer{background:#03040b;border-top:1px solid var(--lc-line);color:var(--lc-muted)}
+.home-page .hm-footer a{color:var(--lc-cyan)}
+.home-page .bf-line-oa-fab{box-shadow:0 0 24px rgba(6,199,85,.35)}
+@media(prefers-reduced-motion:reduce){.home-page::before{animation:none}}
+
+/* Home page background image (cyber city portrait) with readability overlay */
+.home-page{
+  background:
+    linear-gradient(90deg,rgba(4,5,13,.94) 0%,rgba(4,5,13,.82) 45%,rgba(4,5,13,.6) 100%),
+    url("assets/shop/bg-home-cyber.webp") center top / cover no-repeat fixed,
+    var(--lc-bg);
+}
+@media (max-width:900px){
+  .home-page{background:linear-gradient(180deg,rgba(4,5,13,.88),rgba(4,5,13,.96)),url("assets/shop/bg-home-cyber.webp") center top / cover no-repeat,var(--lc-bg)}
+}
+.home-page .ea-home-card{overflow:hidden}
+.home-page .ea-art-img{padding:0!important;min-height:220px;border-radius:14px;overflow:hidden;border:1px solid var(--lc-line)}
+.home-page .ea-art-img img{width:100%;height:100%;object-fit:cover;display:block}
+.home-page .hm-ea-custom{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,.8fr);align-items:center;gap:28px}
+.home-page .hm-ea-custom-art{border-radius:16px;overflow:hidden;border:1px solid var(--lc-line);box-shadow:var(--lc-glow);aspect-ratio:1/1;max-height:420px;justify-self:end;width:100%}
+.home-page .hm-ea-custom-art img{width:100%;height:100%;object-fit:cover;display:block}
+@media(max-width:900px){.home-page .hm-ea-custom{grid-template-columns:1fr}.home-page .hm-ea-custom-art{justify-self:stretch;max-height:300px}}
+
+/* LINE button moved to bottom-left (all pages) */
+.home-page .bf-line-oa-fab{left:18px;right:auto;bottom:18px}
+@media(max-width:600px){.home-page .bf-line-oa-fab{left:12px;right:auto;bottom:12px}}
+.portfolio-art{padding:0!important;overflow:hidden;position:relative}
+.portfolio-art img{width:100%;height:100%;object-fit:cover;display:block;position:absolute;inset:0}
+.logo-symbol{overflow:hidden;padding:0!important}
+.logo-symbol img{width:100%;height:100%;object-fit:cover;display:block}
+.hm-logo-mark{overflow:hidden;padding:0!important}
+.hm-logo-mark img{width:100%;height:100%;object-fit:cover;display:block}
+.hm-strip-art img{width:100%;height:100%;object-fit:cover;display:block}
+.home-page .hm-footer nav{flex-wrap:wrap}
+/* Coming soon state on store cards */
+.coming-soon-btn{background:rgba(139,92,246,.18)!important;color:#d6d0ff!important;border:1px dashed rgba(139,92,246,.6)!important;box-shadow:none!important}
+/* Hero: slow cinematic drift + light sweep (disabled for reduced motion) */
+.hm-hero-art{position:relative;overflow:hidden}
+.hm-hero-art img{animation:heroDrift 22s ease-in-out infinite alternate;transform-origin:50% 40%;will-change:transform}
+.hm-hero-art::before{content:"";position:absolute;top:-20%;bottom:-20%;width:40%;left:-60%;z-index:2;pointer-events:none;background:linear-gradient(100deg,transparent,rgba(82,230,255,.18),rgba(217,70,239,.14),transparent);animation:heroSweep 7s ease-in-out infinite}
+@keyframes heroDrift{0%{transform:scale(1.02) translate(0,0)}100%{transform:scale(1.10) translate(-2%,-1.5%)}}
+@keyframes heroSweep{0%{left:-60%;opacity:0}15%{opacity:1}60%{left:120%;opacity:0}100%{left:120%;opacity:0}}
+@media (prefers-reduced-motion:reduce){.hm-hero-art img,.hm-hero-art::before{animation:none!important}}

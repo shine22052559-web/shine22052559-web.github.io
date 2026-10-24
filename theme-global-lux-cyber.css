@@ -1,0 +1,58 @@
+/* BRAINFORZE — GLOBAL Luxury x Cyberpunk (Blue + Violet). Loaded last on every page. */
+:root{
+  color-scheme:dark;
+  --bg:#04050d;
+  --panel:rgba(12,14,36,.78);
+  --panel2:rgba(20,24,56,.85);
+  --line:rgba(124,110,255,.32);
+  --text:#eef0ff;
+  --muted:#a7acd6;
+  --cyan:#52e6ff;
+  --purple:#8b5cf6;
+  --gold:#8fb4ff;
+  --pink:#d946ef;
+  --radius:18px;
+  --shadow:0 18px 60px rgba(61,123,255,.18),0 0 40px rgba(139,92,246,.12);
+}
+html,body{background:var(--bg)!important;color:var(--text)}
+body{background:
+  radial-gradient(ellipse at 82% 6%,rgba(139,92,246,.28),transparent 38%),
+  radial-gradient(ellipse at 6% 40%,rgba(61,123,255,.20),transparent 36%),
+  linear-gradient(90deg,rgba(4,5,13,.94) 0%,rgba(4,5,13,.84) 50%,rgba(4,5,13,.72) 100%),
+  url("assets/shop/bg-home-cyber.webp") center top / cover no-repeat fixed,
+  var(--bg)!important}
+a{color:var(--cyan)}
+a:hover{color:#bdf6ff;text-shadow:0 0 12px rgba(82,230,255,.45)}
+h1,h2,h3,h4{color:var(--text);letter-spacing:.01em}
+h1 em,h2 em,.eyebrow{color:var(--cyan)}
+.muted,p.muted{color:var(--muted)}
+/* panels and cards */
+.panel,.card,.info-card,.sg-card,.cx-card,.stat,.chip,.notice,.status,.content,.row,.tag,.cx-opt,.cx-tag,.price-card,.plan{
+  background:var(--panel)!important;border-color:var(--line)!important;box-shadow:var(--shadow);backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px)}
+.panel:hover,.card:hover,.info-card:hover,.sg-card:hover{border-color:rgba(82,230,255,.55)!important;box-shadow:0 0 26px rgba(82,230,255,.18),var(--shadow)}
+.chip,.tag,.sg-pill{background:rgba(139,92,246,.10)!important;border:1px solid rgba(124,110,255,.4)!important;color:#d6d0ff!important}
+/* buttons */
+.btn,.gold-btn,.nav-cta,.cx-btn,button[type=submit],.primary{
+  background:linear-gradient(110deg,#52e6ff 0%,#3d7bff 45%,#8b5cf6 75%,#d946ef 100%)!important;
+  color:#fff!important;border:none!important;box-shadow:0 0 18px rgba(61,123,255,.35);font-weight:700}
+.btn:hover,.gold-btn:hover,.nav-cta:hover,.cx-btn:hover{filter:brightness(1.12);transform:translateY(-1px)}
+.secondary,.ghost{background:rgba(82,230,255,.06)!important;border:1px solid rgba(82,230,255,.55)!important;color:var(--cyan)!important;box-shadow:none}
+/* inputs */
+input,select,textarea,.field,.cx-field{background:rgba(8,10,28,.85)!important;color:var(--text)!important;border:1px solid var(--line)!important}
+input:focus,select:focus,textarea:focus,.field:focus,.cx-field:focus{outline:none;border-color:var(--cyan)!important;box-shadow:0 0 16px rgba(82,230,255,.25)}
+::placeholder{color:#7f84b3}
+/* header, nav, footer, announcement */
+.header,.site-header,.topbar{background:rgba(6,7,20,.8)!important;backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border-bottom:1px solid var(--line)!important;box-shadow:0 8px 40px rgba(61,123,255,.12)}
+.nav a,.mobile-menu a{color:#cfd3f5}
+.nav a:hover,.nav a.active,.mobile-menu a:hover{color:var(--cyan)!important;text-shadow:0 0 12px rgba(82,230,255,.5)}
+.footer{background:#03040b!important;border-top:1px solid var(--line)!important;color:var(--muted)}
+.announcement,.bf-ticker,.bf-ticker-track{background:rgba(10,12,34,.9)!important;color:#cfd3ff!important;border-color:var(--line)!important}
+.ticker-dot{background:var(--cyan)!important;box-shadow:0 0 10px var(--cyan)}
+.page-hero{background:linear-gradient(120deg,rgba(14,16,40,.9),rgba(26,14,60,.85))!important;border:1px solid var(--line)}
+.logo-symbol{background:transparent!important;border:1.5px solid var(--cyan)!important;color:var(--cyan)!important;box-shadow:0 0 18px rgba(82,230,255,.35)}
+.price{background:linear-gradient(110deg,#52e6ff,#8b5cf6,#d946ef);-webkit-background-clip:text;background-clip:text;color:transparent!important}
+.crumb{color:var(--muted)}
+.notice{border-color:rgba(217,70,239,.45)!important}
+/* LINE button stays bottom-left on every page */
+.bf-line-oa-fab{left:18px!important;right:auto!important;bottom:18px!important;box-shadow:0 0 24px rgba(6,199,85,.35)}
+@media(max-width:600px){.bf-line-oa-fab{left:12px!important;right:auto!important;bottom:12px!important}}

@@ -1,0 +1,77 @@
+<!doctype html><html lang="th"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="robots" content="noindex">
+<title>ชำระเงิน — BRAINFORZE</title>
+<link rel="stylesheet" href="styles.css"><link rel="stylesheet" href="home-gold.css"><link rel="stylesheet" href="home-lux-cyber.css"><link rel="stylesheet" href="theme-global-lux-cyber.css">
+<style>
+.pay{max-width:980px;margin:0 auto;padding:36px 18px 80px;display:grid;grid-template-columns:1fr 1fr;gap:22px}
+.pay h1{font-size:1.8rem;margin:0 0 6px}.pay .card{border:1px solid var(--line);border-radius:18px;padding:20px;background:var(--panel)}
+.pay label{display:block;font-size:13px;color:var(--muted);margin:10px 0 4px}.pay input,.pay textarea{width:100%;padding:10px 12px;border-radius:10px;background:rgba(8,10,28,.85);color:var(--text);border:1px solid var(--line);font:inherit}
+.pay .qr{width:100%;max-width:280px;display:block;margin:10px auto;border-radius:14px;background:#fff;padding:8px}
+.pay .total{font-size:1.6rem;font-weight:800;color:var(--cyan)}
+.pay .btn{display:inline-block;padding:12px 18px;border-radius:12px;border:none;cursor:pointer;background:linear-gradient(110deg,#52e6ff,#3d7bff 45%,#8b5cf6 75%,#d946ef 100%);color:#fff;font-weight:700;text-decoration:none;margin:6px 6px 0 0}
+.pay .muted{color:var(--muted);font-size:13px;line-height:1.7}
+.pay .notice{border:1px solid rgba(217,70,239,.45);border-radius:12px;padding:10px 12px;margin-top:12px;color:#e9d7ff;background:rgba(139,92,246,.10);font-size:13px;line-height:1.7}
+.bill{display:none;background:#fff;color:#111;border-radius:14px;padding:24px;margin-top:18px;font-size:14px}
+.bill h2{margin:0 0 4px;font-size:1.3rem}.bill table{width:100%;border-collapse:collapse;margin-top:10px}.bill th,.bill td{border-bottom:1px solid #ddd;padding:7px 4px;text-align:left}.bill .r{text-align:right}
+.queue{font-size:2rem;font-weight:800;color:#5b2bd6}
+@media(max-width:820px){.pay{grid-template-columns:1fr}}
+@media print{body *{visibility:hidden}.bill,.bill *{visibility:visible}.bill{position:absolute;left:0;top:0;width:100%;margin:0;box-shadow:none}}
+</style></head><body class="home-page"><main class="pay">
+<section class="card" id="orderBox">
+ <a href="store.html" style="color:var(--cyan)">← กลับไปหน้าร้านค้า</a>
+ <h1>ชำระเงิน</h1>
+ <div id="orderInfo" class="muted">กำลังโหลดคำสั่งซื้อ...</div>
+ <div id="items"></div>
+ <p class="total" id="total"></p>
+ <div class="notice">ระบบจะส่งไฟล์หลังยอดเงินเข้าและแอดมินยืนยันแล้วเท่านั้น หลังโอนแล้วให้ส่งสลิปพร้อมเลขออเดอร์ที่ LINE OA</div>
+</section>
+<section class="card">
+ <h2 style="margin:0 0 6px">สแกนเพื่อโอนเงิน</h2>
+ <img class="qr" src="assets/shop/payment-qr.webp" alt="QR สำหรับชำระเงิน BRAINFORZE">
+ <div class="muted">หลังโอนแล้ว ส่งสลิปที่ LINE OA พร้อมเลขออเดอร์ด้านบน</div>
+ <a class="btn" href="https://lin.ee/NaVtUAY" target="_blank" rel="noopener">ส่งสลิปทาง LINE OA</a>
+ <hr style="border-color:var(--line);margin:18px 0">
+ <form id="billForm">
+  <label>ชื่อผู้สั่งซื้อ (ใช้ออกใบเสร็จ)<input id="bName" required></label>
+  <label>ที่อยู่สำหรับออกใบกำกับภาษี (ถ้าต้องการ)<textarea id="bAddr" rows="2"></textarea></label>
+  <label>เลขประจำตัวผู้เสียภาษี (ถ้าต้องการ)<input id="bTax" maxlength="13"></label>
+  <label><input type="checkbox" id="bAgree" required style="width:auto"> ฉันยอมรับ <a href="terms.html" target="_blank" style="color:var(--cyan)">เงื่อนไขการใช้บริการ</a> และนโยบายคืนเงิน</label>
+  <button class="btn" type="submit">สร้าง E-Bill และคิวงาน</button>
+ </form>
+ <div class="queue" id="queueNo" style="margin-top:14px"></div>
+ <div class="bill" id="bill"></div>
+ <button class="btn" id="printBtn" style="display:none" onclick="window.print()">พิมพ์ / บันทึกเป็น PDF</button>
+</section>
+</main>
+<script>
+const SELLER={name:'BRAINFORZE',taxId:'[ระบุเลขประจำตัวผู้เสียภาษีจริงก่อนออกใบกำกับภาษี]',address:'[ระบุที่อยู่จริง]',contact:'LINE OA: lin.ee/NaVtUAY'};
+const params=new URLSearchParams(location.search);const oid=params.get('order');
+const orders=JSON.parse(localStorage.getItem('bf_orders_v1')||'[]');
+const order=orders.find(o=>o.id===oid);
+const money=n=>'฿'+Number(n).toLocaleString('th-TH');
+if(!order){document.getElementById('orderInfo').textContent='ไม่พบคำสั่งซื้อ กรุณากลับไปเลือกสินค้าใหม่';document.getElementById('billForm').style.display='none';}
+else{
+ document.getElementById('orderInfo').innerHTML='เลขออเดอร์: <b>'+order.id+'</b> · สถานะ: รอชำระเงิน';
+ document.getElementById('items').innerHTML=order.items.map(i=>'<div class="muted" style="margin-top:6px">'+i.name+' × '+i.quantity+' = '+money(i.lineTotalTHB)+'</div>').join('');
+ document.getElementById('total').textContent='ยอดรวม '+money(order.totalTHB);
+ document.getElementById('bName').value=order.buyer.name||'';
+}
+document.getElementById('billForm').addEventListener('submit',e=>{
+ e.preventDefault(); if(!order)return;
+ // queue number: stable per order, assigned once
+ let q=JSON.parse(localStorage.getItem('bf_queue_v1')||'{}');
+ if(!q[order.id]){const n=Object.keys(q).length+1;q[order.id]=n;localStorage.setItem('bf_queue_v1',JSON.stringify(q));}
+ const qno=q[order.id];
+ order.queue=qno;order.billName=document.getElementById('bName').value.trim();order.billAddr=document.getElementById('bAddr').value.trim();order.billTax=document.getElementById('bTax').value.trim();
+ localStorage.setItem('bf_orders_v1',JSON.stringify(orders.map(o=>o.id===order.id?order:o)));
+ document.getElementById('queueNo').textContent='คิวของคุณ: #'+String(qno).padStart(4,'0')+' (คิวชั่วคราว จะยืนยันเมื่อแอดมินตรวจยอดเงินแล้ว)';
+ const rows=order.items.map(i=>'<tr><td>'+i.name+'</td><td class="r">'+i.quantity+'</td><td class="r">'+money(i.lineTotalTHB)+'</td></tr>').join('');
+ const d=new Date(order.createdAt).toLocaleString('th-TH');
+ document.getElementById('bill').innerHTML='<h2>E-Bill / ใบแจ้งหนี้</h2><div>เลขที่: '+order.id+' · วันที่: '+d+' · คิว #'+String(qno).padStart(4,'0')+'</div>'+
+ '<div style="margin-top:10px"><b>ผู้ขาย:</b> '+SELLER.name+'<br>เลขประจำตัวผู้เสียภาษี: '+SELLER.taxId+'<br>ที่อยู่: '+SELLER.address+'<br>'+SELLER.contact+'</div>'+
+ '<div style="margin-top:10px"><b>ผู้ซื้อ:</b> '+order.billName+(order.billAddr?'<br>ที่อยู่: '+order.billAddr:'')+(order.billTax?'<br>เลขประจำตัวผู้เสียภาษี: '+order.billTax:'')+'</div>'+
+ '<table><tr><th>รายการ</th><th class="r">จำนวน</th><th class="r">ยอด</th></tr>'+rows+'<tr><th colspan="2">รวมทั้งสิ้น</th><th class="r">'+money(order.totalTHB)+'</th></tr></table>'+
+ '<p style="font-size:12px;color:#555">ชำระผ่าน QR โอนเงิน กรุณาส่งสลิปพร้อมเลขที่ใบแจ้งหนี้ที่ LINE OA</p>';
+ document.getElementById('bill').style.display='block';
+ document.getElementById('printBtn').style.display='inline-block';
+});
+</script></body></html>

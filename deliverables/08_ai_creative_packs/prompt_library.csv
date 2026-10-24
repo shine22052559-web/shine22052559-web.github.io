@@ -1,0 +1,4 @@
+use_case,prompt_template,required_inputs,review_gate
+Product hero,"Create a product hero composition for [product] with [palette] and clear negative space",Product facts and brand assets,Check no invented features
+Social carousel,"Explain [topic] in 5 concise slides for [audience]",Verified source notes,Fact check each slide
+Short video,"Write a [duration] script with hook, demo, proof and CTA",Real product capabilities,Verify claims and rights
